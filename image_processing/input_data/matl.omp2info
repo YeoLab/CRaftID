@@ -1,0 +1,1988 @@
+<?xml version="1.0" encoding="ASCII"?>
+<matl:properties xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:marker="http://www.olympus.co.jp/hpf/model/marker" xmlns:matl="http://www.olympus.co.jp/hpf/protocol/matl/model/matl" applicationVersion="2.1.1.98" platformVersion="1.15.2.168" version="2.1" id="6c72595c-c457-4b16-8020-b9c87bd7eb2d">
+  <matl:stage>
+    <matl:name>OLYMPUS,IX3-SSU</matl:name>
+    <matl:speed>0</matl:speed>
+    <matl:overlap>14</matl:overlap>
+    <matl:escapeWhenMove>false</matl:escapeWhenMove>
+    <matl:strokeRange>
+      <matl:minX>-57000000</matl:minX>
+      <matl:minY>-37500000</matl:minY>
+      <matl:maxX>57000000</matl:maxX>
+      <matl:maxY>37500000</matl:maxY>
+    </matl:strokeRange>
+    <matl:swOrigin x="0" y="0"/>
+    <matl:stageVarianceX>0.0</matl:stageVarianceX>
+    <matl:stageVarianceY>0.0</matl:stageVarianceY>
+  </matl:stage>
+  <matl:group xsi:type="matl:DefineMatrixROI" objectId="0e540b93-4296-42e8-9771-7af278c4bd19">
+    <marker:regionInfo xsi:type="marker:rectangleRegion">
+      <marker:shape>Rectangle</marker:shape>
+      <marker:coordinates height="21395641" width="21395641" x="-10135129" y="-10475666"/>
+    </marker:regionInfo>
+    <matl:protocolGroupId>group1</matl:protocolGroupId>
+    <matl:taskType>LSMImaging</matl:taskType>
+    <matl:enable>true</matl:enable>
+    <matl:stitching>true</matl:stitching>
+    <matl:areaInfo>
+      <matl:numOfXAreas>18</matl:numOfXAreas>
+      <matl:numOfYAreas>18</matl:numOfYAreas>
+      <matl:areaLeft>-10135129</matl:areaLeft>
+      <matl:areaTop>-10475666</matl:areaTop>
+      <matl:areaWidth>1272792</matl:areaWidth>
+      <matl:areaHeight>1272792</matl:areaHeight>
+    </matl:areaInfo>
+    <matl:area id="c871ec3f-3760-49e3-b37d-69bead268344">
+      <matl:protocolId>0bedd48c-49dd-4a4f-bba3-b701d1e68c2d</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0001.oir</matl:image>
+      <matl:xIndex>0</matl:xIndex>
+      <matl:yIndex>0</matl:yIndex>
+    </matl:area>
+    <matl:area id="fb619764-9f7a-4eb0-88ce-b48e3f8ecd94">
+      <matl:protocolId>0896eb08-971e-43c9-9309-dbebb0264968</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0002.oir</matl:image>
+      <matl:xIndex>1</matl:xIndex>
+      <matl:yIndex>0</matl:yIndex>
+    </matl:area>
+    <matl:area id="55f78261-f639-4f19-8d70-305ffa932073">
+      <matl:protocolId>b6fb9a84-5bf1-496a-8118-4ef5850e1c69</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0003.oir</matl:image>
+      <matl:xIndex>2</matl:xIndex>
+      <matl:yIndex>0</matl:yIndex>
+    </matl:area>
+    <matl:area id="22b8211b-d66c-470d-82fb-53bb41e0a698">
+      <matl:protocolId>b2bd4f12-b609-4009-a0e2-494ad49f4af0</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0004.oir</matl:image>
+      <matl:xIndex>3</matl:xIndex>
+      <matl:yIndex>0</matl:yIndex>
+    </matl:area>
+    <matl:area id="42258ce4-30dc-45c3-bcab-98158de76a51">
+      <matl:protocolId>ae58d6bc-7398-40bf-88aa-cf7df51f4706</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0005.oir</matl:image>
+      <matl:xIndex>4</matl:xIndex>
+      <matl:yIndex>0</matl:yIndex>
+    </matl:area>
+    <matl:area id="a9272680-a648-4868-8d6e-16f44f552a0b">
+      <matl:protocolId>0aab9cb1-8648-4083-af08-0bddc92379f3</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0006.oir</matl:image>
+      <matl:xIndex>5</matl:xIndex>
+      <matl:yIndex>0</matl:yIndex>
+    </matl:area>
+    <matl:area id="0c539b22-9cab-44f7-9398-bd885d7eff21">
+      <matl:protocolId>ed308108-a00f-4f6b-a158-ad5287363920</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0007.oir</matl:image>
+      <matl:xIndex>6</matl:xIndex>
+      <matl:yIndex>0</matl:yIndex>
+    </matl:area>
+    <matl:area id="f99b9f49-9493-48a4-b7ae-d3aaf8836e69">
+      <matl:protocolId>1b6e3b0f-e3b8-415a-a81d-463163767612</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0008.oir</matl:image>
+      <matl:xIndex>7</matl:xIndex>
+      <matl:yIndex>0</matl:yIndex>
+    </matl:area>
+    <matl:area id="e3c935ed-65a3-4ea4-b0d9-5727e600fd14">
+      <matl:protocolId>0bfad483-bb88-4201-b079-dd5ec15809d2</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0009.oir</matl:image>
+      <matl:xIndex>8</matl:xIndex>
+      <matl:yIndex>0</matl:yIndex>
+    </matl:area>
+    <matl:area id="1a8148cf-a5fc-4928-80ed-6a356e1b7838">
+      <matl:protocolId>20406b33-b5a0-4909-b37c-2c5b304a18e5</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0010.oir</matl:image>
+      <matl:xIndex>9</matl:xIndex>
+      <matl:yIndex>0</matl:yIndex>
+    </matl:area>
+    <matl:area id="7c4c9969-95f1-4578-b3e7-247166207bc6">
+      <matl:protocolId>ba464caf-d640-477b-9b5b-1bcbeab74b79</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0011.oir</matl:image>
+      <matl:xIndex>10</matl:xIndex>
+      <matl:yIndex>0</matl:yIndex>
+    </matl:area>
+    <matl:area id="2c064f27-0ff7-448f-b6de-821217373781">
+      <matl:protocolId>b8b65a3f-506b-4e1c-9a43-21f6baa33c82</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0012.oir</matl:image>
+      <matl:xIndex>11</matl:xIndex>
+      <matl:yIndex>0</matl:yIndex>
+    </matl:area>
+    <matl:area id="7ebcf841-59f6-4b36-bf7c-01a4e7f518da">
+      <matl:protocolId>08d68f44-d018-4ce1-8779-a335e9e95398</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0013.oir</matl:image>
+      <matl:xIndex>12</matl:xIndex>
+      <matl:yIndex>0</matl:yIndex>
+    </matl:area>
+    <matl:area id="f1ecec28-6f49-41e7-ac0c-2f61f051aace">
+      <matl:protocolId>7f16b9a8-04a7-4959-8138-eaef1643c4fc</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0014.oir</matl:image>
+      <matl:xIndex>13</matl:xIndex>
+      <matl:yIndex>0</matl:yIndex>
+    </matl:area>
+    <matl:area id="b2c5c6c7-84cb-4f63-a699-33b0c9ac6735">
+      <matl:protocolId>95df0e08-2b80-4a7d-86e7-5410e552649e</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0015.oir</matl:image>
+      <matl:xIndex>14</matl:xIndex>
+      <matl:yIndex>0</matl:yIndex>
+    </matl:area>
+    <matl:area id="ba373af3-6581-4905-a17d-4c999a4079d1">
+      <matl:protocolId>40c5360a-c05c-46c1-86f4-fd0d411fd906</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0016.oir</matl:image>
+      <matl:xIndex>15</matl:xIndex>
+      <matl:yIndex>0</matl:yIndex>
+    </matl:area>
+    <matl:area id="9e49590e-9952-4e78-832a-cacdef88db68">
+      <matl:protocolId>1eed38b9-1fba-45d1-b84d-2e4ff1f6e68e</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0017.oir</matl:image>
+      <matl:xIndex>16</matl:xIndex>
+      <matl:yIndex>0</matl:yIndex>
+    </matl:area>
+    <matl:area id="98969bc4-17cb-4d8d-bf26-40074cda9310">
+      <matl:protocolId>2d04add6-fa9d-4d1a-b7c6-90f65f3c8de0</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0018.oir</matl:image>
+      <matl:xIndex>17</matl:xIndex>
+      <matl:yIndex>0</matl:yIndex>
+    </matl:area>
+    <matl:area id="978a952e-242b-4151-b4b1-fcedda16961d">
+      <matl:protocolId>ef76233f-dd57-47e6-a243-8bf74c606721</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0019.oir</matl:image>
+      <matl:xIndex>17</matl:xIndex>
+      <matl:yIndex>1</matl:yIndex>
+    </matl:area>
+    <matl:area id="0fc6799a-a726-4a5f-b3f1-5d8e9edc6983">
+      <matl:protocolId>5e672768-c3b7-4885-925d-d01e5e3fcbc3</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0020.oir</matl:image>
+      <matl:xIndex>16</matl:xIndex>
+      <matl:yIndex>1</matl:yIndex>
+    </matl:area>
+    <matl:area id="7887c46d-fc3b-4864-a768-68452e66c212">
+      <matl:protocolId>978e589c-5013-47f3-9f09-9aa03b5c59f7</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0021.oir</matl:image>
+      <matl:xIndex>15</matl:xIndex>
+      <matl:yIndex>1</matl:yIndex>
+    </matl:area>
+    <matl:area id="fd362dd2-2b85-4257-a5ad-8fd26f12af08">
+      <matl:protocolId>c6c9c5e8-b7a4-43d4-85e7-30b3fc5fb02b</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0022.oir</matl:image>
+      <matl:xIndex>14</matl:xIndex>
+      <matl:yIndex>1</matl:yIndex>
+    </matl:area>
+    <matl:area id="70e79ee2-f410-492d-8022-2be4695fdce6">
+      <matl:protocolId>c22d1036-ab75-4f8d-a8d6-7d1a292d80fa</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0023.oir</matl:image>
+      <matl:xIndex>13</matl:xIndex>
+      <matl:yIndex>1</matl:yIndex>
+    </matl:area>
+    <matl:area id="e98cab34-2c10-43b2-a3ef-b6a1d6745545">
+      <matl:protocolId>9f67c960-6c5e-4764-87a0-0dac434fb640</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0024.oir</matl:image>
+      <matl:xIndex>12</matl:xIndex>
+      <matl:yIndex>1</matl:yIndex>
+    </matl:area>
+    <matl:area id="21c2da29-8f5d-44ce-8b9c-6359e3c613bf">
+      <matl:protocolId>24fdd4d5-01db-4081-8f6a-18c65cabda63</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0025.oir</matl:image>
+      <matl:xIndex>11</matl:xIndex>
+      <matl:yIndex>1</matl:yIndex>
+    </matl:area>
+    <matl:area id="6064c3b2-1b40-4db8-93c6-189cf8400dfb">
+      <matl:protocolId>d9e44685-d227-4ab4-b4ad-5622cf17b65e</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0026.oir</matl:image>
+      <matl:xIndex>10</matl:xIndex>
+      <matl:yIndex>1</matl:yIndex>
+    </matl:area>
+    <matl:area id="6d6a1e76-f0bf-437c-affe-1a3199e9d232">
+      <matl:protocolId>837e7f2c-0a01-49ab-9b38-4389a9508ef8</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0027.oir</matl:image>
+      <matl:xIndex>9</matl:xIndex>
+      <matl:yIndex>1</matl:yIndex>
+    </matl:area>
+    <matl:area id="bc48a33c-0461-4da3-9a56-352426782070">
+      <matl:protocolId>ba864924-e33d-42b4-bdcc-d24fbc71ee1b</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0028.oir</matl:image>
+      <matl:xIndex>8</matl:xIndex>
+      <matl:yIndex>1</matl:yIndex>
+    </matl:area>
+    <matl:area id="c563aa98-75b1-47c1-80f7-0c84454759e3">
+      <matl:protocolId>df256a9a-2955-46e8-989e-d18740fc34c9</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0029.oir</matl:image>
+      <matl:xIndex>7</matl:xIndex>
+      <matl:yIndex>1</matl:yIndex>
+    </matl:area>
+    <matl:area id="9a5c94f7-59ed-4f31-a976-90dbd2df13fb">
+      <matl:protocolId>53b6bf74-4fcf-4a07-8cd4-373938d1eca5</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0030.oir</matl:image>
+      <matl:xIndex>6</matl:xIndex>
+      <matl:yIndex>1</matl:yIndex>
+    </matl:area>
+    <matl:area id="ab3633a0-bf5b-4a9e-85d3-54447510d42e">
+      <matl:protocolId>f2f72e84-7a0f-4299-b20a-ce8582804316</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0031.oir</matl:image>
+      <matl:xIndex>5</matl:xIndex>
+      <matl:yIndex>1</matl:yIndex>
+    </matl:area>
+    <matl:area id="61219954-6872-4a98-88b9-1529c529665a">
+      <matl:protocolId>8756714e-d1c0-4ee4-8dab-7af5abfd1ced</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0032.oir</matl:image>
+      <matl:xIndex>4</matl:xIndex>
+      <matl:yIndex>1</matl:yIndex>
+    </matl:area>
+    <matl:area id="d67a6996-ac35-45f7-9ded-0f77e72705d0">
+      <matl:protocolId>5e3a808b-cf33-4d22-adb1-956a410cf42f</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0033.oir</matl:image>
+      <matl:xIndex>3</matl:xIndex>
+      <matl:yIndex>1</matl:yIndex>
+    </matl:area>
+    <matl:area id="7bb2e035-ffee-47ab-8e3f-b7fa244c540a">
+      <matl:protocolId>a9562922-b910-4754-ade7-48ad711f37c0</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0034.oir</matl:image>
+      <matl:xIndex>2</matl:xIndex>
+      <matl:yIndex>1</matl:yIndex>
+    </matl:area>
+    <matl:area id="b80c5b96-4a59-4bed-9b62-cbc68a39ac0a">
+      <matl:protocolId>4d6df7f8-85bf-4743-b9f3-1beec39b41d4</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0035.oir</matl:image>
+      <matl:xIndex>1</matl:xIndex>
+      <matl:yIndex>1</matl:yIndex>
+    </matl:area>
+    <matl:area id="91ceaace-9020-4080-877f-a78743e73fd6">
+      <matl:protocolId>b2a3dc84-608d-4abe-8501-3d96fec56477</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0036.oir</matl:image>
+      <matl:xIndex>0</matl:xIndex>
+      <matl:yIndex>1</matl:yIndex>
+    </matl:area>
+    <matl:area id="c0619573-e61a-42f1-bc40-ac3dedd550bf">
+      <matl:protocolId>7e34adaa-7e6b-4f3b-90eb-cca28d21857d</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0037.oir</matl:image>
+      <matl:xIndex>0</matl:xIndex>
+      <matl:yIndex>2</matl:yIndex>
+    </matl:area>
+    <matl:area id="05cc91b1-c249-4416-a4fb-03bf6a25f024">
+      <matl:protocolId>f5ffcbc9-3e4f-4e71-bed1-0a4fa5ad7514</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0038.oir</matl:image>
+      <matl:xIndex>1</matl:xIndex>
+      <matl:yIndex>2</matl:yIndex>
+    </matl:area>
+    <matl:area id="e9aaf5b6-f394-4435-8c20-6442fed9a84b">
+      <matl:protocolId>fb9d1569-7694-4535-9971-cb6f62ceb82e</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0039.oir</matl:image>
+      <matl:xIndex>2</matl:xIndex>
+      <matl:yIndex>2</matl:yIndex>
+    </matl:area>
+    <matl:area id="846136ce-599d-48cc-bf45-234e396f8955">
+      <matl:protocolId>6c76e400-db27-4ca1-a4c0-649d784f8560</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0040.oir</matl:image>
+      <matl:xIndex>3</matl:xIndex>
+      <matl:yIndex>2</matl:yIndex>
+    </matl:area>
+    <matl:area id="11d11b97-8288-489b-b296-6f93ad77be13">
+      <matl:protocolId>41179790-84ad-42f9-97fe-3d21e4d330e2</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0041.oir</matl:image>
+      <matl:xIndex>4</matl:xIndex>
+      <matl:yIndex>2</matl:yIndex>
+    </matl:area>
+    <matl:area id="39fb144d-3473-4f05-9f2e-9f9ded50c9e0">
+      <matl:protocolId>7ff82cee-2f51-4498-863f-21ceda92f485</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0042.oir</matl:image>
+      <matl:xIndex>5</matl:xIndex>
+      <matl:yIndex>2</matl:yIndex>
+    </matl:area>
+    <matl:area id="e579bc35-f34a-49bb-a9e7-20ef7211330f">
+      <matl:protocolId>3678ef5f-922a-4fee-bfea-523b91349ea1</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0043.oir</matl:image>
+      <matl:xIndex>6</matl:xIndex>
+      <matl:yIndex>2</matl:yIndex>
+    </matl:area>
+    <matl:area id="b1fb5ab6-b3f8-45c7-8ae9-93248694d215">
+      <matl:protocolId>f5c9d54a-1083-44d2-aa90-3306fca02b0e</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0044.oir</matl:image>
+      <matl:xIndex>7</matl:xIndex>
+      <matl:yIndex>2</matl:yIndex>
+    </matl:area>
+    <matl:area id="d3cfd38e-2f44-4842-b8fe-e21257f9e794">
+      <matl:protocolId>4b661609-6d4d-486c-85c8-5ae0fee13fd5</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0045.oir</matl:image>
+      <matl:xIndex>8</matl:xIndex>
+      <matl:yIndex>2</matl:yIndex>
+    </matl:area>
+    <matl:area id="1e79d2f2-b88c-48f9-a8c7-fa0bc80c1b96">
+      <matl:protocolId>7d394b74-1fac-4f6a-9f24-fb4e6b44917e</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0046.oir</matl:image>
+      <matl:xIndex>9</matl:xIndex>
+      <matl:yIndex>2</matl:yIndex>
+    </matl:area>
+    <matl:area id="de16c8c2-bba4-4c6c-b34f-cd9081dafba9">
+      <matl:protocolId>b191d939-d81e-43c2-b76b-65d0b5ff09d4</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0047.oir</matl:image>
+      <matl:xIndex>10</matl:xIndex>
+      <matl:yIndex>2</matl:yIndex>
+    </matl:area>
+    <matl:area id="e8db889b-7c6c-42ea-9511-7a62fe9bb36f">
+      <matl:protocolId>6a34e42c-4feb-41bd-b2e0-a42977ef0e3b</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0048.oir</matl:image>
+      <matl:xIndex>11</matl:xIndex>
+      <matl:yIndex>2</matl:yIndex>
+    </matl:area>
+    <matl:area id="88f28065-e388-4e5e-9d7b-7a29953660f9">
+      <matl:protocolId>588b2497-5eb6-49ce-b86c-a5f1698107b5</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0049.oir</matl:image>
+      <matl:xIndex>12</matl:xIndex>
+      <matl:yIndex>2</matl:yIndex>
+    </matl:area>
+    <matl:area id="137c637b-a1c8-47b2-b8af-920cc6b2f610">
+      <matl:protocolId>e843a470-0318-412a-8893-9374900e4317</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0050.oir</matl:image>
+      <matl:xIndex>13</matl:xIndex>
+      <matl:yIndex>2</matl:yIndex>
+    </matl:area>
+    <matl:area id="f050ab9f-1dba-4e7c-b188-d31ca2142924">
+      <matl:protocolId>1fa48797-1445-463a-a5e2-5e94df1668da</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0051.oir</matl:image>
+      <matl:xIndex>14</matl:xIndex>
+      <matl:yIndex>2</matl:yIndex>
+    </matl:area>
+    <matl:area id="73d356ae-fa2b-4915-a876-6b4c680faefd">
+      <matl:protocolId>98b72e56-3657-4a29-ab2f-d94ce097d8c7</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0052.oir</matl:image>
+      <matl:xIndex>15</matl:xIndex>
+      <matl:yIndex>2</matl:yIndex>
+    </matl:area>
+    <matl:area id="e8e0fa5a-0e54-45d7-8e3e-5d5b70ed8fdd">
+      <matl:protocolId>8043c61f-0619-4f7d-9bac-fe8e6797690f</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0053.oir</matl:image>
+      <matl:xIndex>16</matl:xIndex>
+      <matl:yIndex>2</matl:yIndex>
+    </matl:area>
+    <matl:area id="a7816fa7-5ec6-442a-9268-e514bc574e7c">
+      <matl:protocolId>c54173cc-4d4d-431b-ad6e-8be78e0d109f</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0054.oir</matl:image>
+      <matl:xIndex>17</matl:xIndex>
+      <matl:yIndex>2</matl:yIndex>
+    </matl:area>
+    <matl:area id="89ee3d37-eede-4230-b3bf-19f89eba6c38">
+      <matl:protocolId>b8741385-6359-4e3c-be23-aa054ec15c75</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0055.oir</matl:image>
+      <matl:xIndex>17</matl:xIndex>
+      <matl:yIndex>3</matl:yIndex>
+    </matl:area>
+    <matl:area id="b45877a9-8918-4fb4-a82c-e8b91d88e4ae">
+      <matl:protocolId>66f462ab-d61d-42ca-b028-73ce94746b62</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0056.oir</matl:image>
+      <matl:xIndex>16</matl:xIndex>
+      <matl:yIndex>3</matl:yIndex>
+    </matl:area>
+    <matl:area id="21eae682-9eff-4f35-9c69-c4112ad9b756">
+      <matl:protocolId>9fd484ae-30a2-4362-b83b-d33ed02dff9b</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0057.oir</matl:image>
+      <matl:xIndex>15</matl:xIndex>
+      <matl:yIndex>3</matl:yIndex>
+    </matl:area>
+    <matl:area id="32a36e7f-0d18-49b2-b3e4-39768670a508">
+      <matl:protocolId>20527b71-50d3-4db1-b680-d6a24a2a91c1</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0058.oir</matl:image>
+      <matl:xIndex>14</matl:xIndex>
+      <matl:yIndex>3</matl:yIndex>
+    </matl:area>
+    <matl:area id="8695e83f-8bf8-4ad9-80d4-87aeecb14427">
+      <matl:protocolId>8ec97966-ce45-4555-8f59-d4b1f9c76007</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0059.oir</matl:image>
+      <matl:xIndex>13</matl:xIndex>
+      <matl:yIndex>3</matl:yIndex>
+    </matl:area>
+    <matl:area id="30b4e574-f4f6-493d-ac1d-31e9bd1dabc9">
+      <matl:protocolId>68cd509c-99ce-4d07-92d3-99197d152cc9</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0060.oir</matl:image>
+      <matl:xIndex>12</matl:xIndex>
+      <matl:yIndex>3</matl:yIndex>
+    </matl:area>
+    <matl:area id="5ddce2e0-87eb-4a7e-8c03-7b04648fbf23">
+      <matl:protocolId>ef655122-5ab0-470f-aa8a-187a14fdb00d</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0061.oir</matl:image>
+      <matl:xIndex>11</matl:xIndex>
+      <matl:yIndex>3</matl:yIndex>
+    </matl:area>
+    <matl:area id="425b9790-b634-49a9-9a20-ff47e47b180f">
+      <matl:protocolId>bc5ce3f0-42cb-4cf6-9fc6-06953d1049c3</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0062.oir</matl:image>
+      <matl:xIndex>10</matl:xIndex>
+      <matl:yIndex>3</matl:yIndex>
+    </matl:area>
+    <matl:area id="d6f78967-daa6-4e78-a521-a011e8c70658">
+      <matl:protocolId>a9b79d74-8fd8-4c47-8a07-4bf37117877c</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0063.oir</matl:image>
+      <matl:xIndex>9</matl:xIndex>
+      <matl:yIndex>3</matl:yIndex>
+    </matl:area>
+    <matl:area id="6c42499d-e114-40db-b0c0-8699bda64155">
+      <matl:protocolId>9a13ea43-c20c-4df8-bc43-8dc048a93fd7</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0064.oir</matl:image>
+      <matl:xIndex>8</matl:xIndex>
+      <matl:yIndex>3</matl:yIndex>
+    </matl:area>
+    <matl:area id="23939123-e118-476c-b54c-59f89e8ffa8a">
+      <matl:protocolId>b151f5ea-ef70-4389-b7a0-7d8ec10e1156</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0065.oir</matl:image>
+      <matl:xIndex>7</matl:xIndex>
+      <matl:yIndex>3</matl:yIndex>
+    </matl:area>
+    <matl:area id="4ab525a8-e858-4fbe-a379-27bc41d276a0">
+      <matl:protocolId>6f4a3014-cbc0-4368-9d69-18c7093ec944</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0066.oir</matl:image>
+      <matl:xIndex>6</matl:xIndex>
+      <matl:yIndex>3</matl:yIndex>
+    </matl:area>
+    <matl:area id="304c9d91-0a65-4e12-b1ad-58f540a7e6cf">
+      <matl:protocolId>e3469707-46c6-4327-8928-1b01881ead13</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0067.oir</matl:image>
+      <matl:xIndex>5</matl:xIndex>
+      <matl:yIndex>3</matl:yIndex>
+    </matl:area>
+    <matl:area id="0a928ea6-2913-4855-ba1c-320877116e9b">
+      <matl:protocolId>b170d8b8-3bb9-4263-ab44-a845a6599371</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0068.oir</matl:image>
+      <matl:xIndex>4</matl:xIndex>
+      <matl:yIndex>3</matl:yIndex>
+    </matl:area>
+    <matl:area id="7ab2797f-2eb8-4fef-a9b1-15cc6d7c7d81">
+      <matl:protocolId>40e68311-c0c5-4440-87da-33fef79beb48</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0069.oir</matl:image>
+      <matl:xIndex>3</matl:xIndex>
+      <matl:yIndex>3</matl:yIndex>
+    </matl:area>
+    <matl:area id="2ff491aa-8cb4-4db3-9a28-313e25ffc7a7">
+      <matl:protocolId>b76957ad-cc07-4206-8a92-54e389ae6fed</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0070.oir</matl:image>
+      <matl:xIndex>2</matl:xIndex>
+      <matl:yIndex>3</matl:yIndex>
+    </matl:area>
+    <matl:area id="b54fe005-06d1-4d5c-8867-2c9f33cb1743">
+      <matl:protocolId>b18ca286-f206-4514-9b8f-480e53ed67cc</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0071.oir</matl:image>
+      <matl:xIndex>1</matl:xIndex>
+      <matl:yIndex>3</matl:yIndex>
+    </matl:area>
+    <matl:area id="0063e857-8906-46e6-817b-69a720afd203">
+      <matl:protocolId>681b20a2-8e9c-4e8d-bde9-aed1eba0cdd5</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0072.oir</matl:image>
+      <matl:xIndex>0</matl:xIndex>
+      <matl:yIndex>3</matl:yIndex>
+    </matl:area>
+    <matl:area id="e8ba7250-805d-467d-bcaf-74de7569cbde">
+      <matl:protocolId>a8695183-d952-4104-9a5e-c9eb05c232d7</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0073.oir</matl:image>
+      <matl:xIndex>0</matl:xIndex>
+      <matl:yIndex>4</matl:yIndex>
+    </matl:area>
+    <matl:area id="36104b6e-f402-40d1-bf1a-4e14160ee4b3">
+      <matl:protocolId>18c047f8-a63e-400c-bf72-c5030edcf153</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0074.oir</matl:image>
+      <matl:xIndex>1</matl:xIndex>
+      <matl:yIndex>4</matl:yIndex>
+    </matl:area>
+    <matl:area id="4107cad1-4a48-4edf-b355-7767be4ac6d5">
+      <matl:protocolId>d4e4fdfe-8f51-4fb0-9e55-369194800bc9</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0075.oir</matl:image>
+      <matl:xIndex>2</matl:xIndex>
+      <matl:yIndex>4</matl:yIndex>
+    </matl:area>
+    <matl:area id="c1fa8bc1-4b71-4f71-8b4b-356535fbdf83">
+      <matl:protocolId>244542f9-8eea-4d12-a819-7fb17e7d8e22</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0076.oir</matl:image>
+      <matl:xIndex>3</matl:xIndex>
+      <matl:yIndex>4</matl:yIndex>
+    </matl:area>
+    <matl:area id="be8746c2-90dd-44ec-9e4c-e350c7491a83">
+      <matl:protocolId>d1456121-c427-4e60-b639-686afb51f2b4</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0077.oir</matl:image>
+      <matl:xIndex>4</matl:xIndex>
+      <matl:yIndex>4</matl:yIndex>
+    </matl:area>
+    <matl:area id="25665af6-6416-4aa7-a5de-a7615814c31d">
+      <matl:protocolId>5da553ec-59d8-4a33-bb8e-ad91541bdfb8</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0078.oir</matl:image>
+      <matl:xIndex>5</matl:xIndex>
+      <matl:yIndex>4</matl:yIndex>
+    </matl:area>
+    <matl:area id="df97a94c-b069-4f33-8666-106c4a3aeeb9">
+      <matl:protocolId>c161bef5-7256-42a7-899e-27923c23cb0f</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0079.oir</matl:image>
+      <matl:xIndex>6</matl:xIndex>
+      <matl:yIndex>4</matl:yIndex>
+    </matl:area>
+    <matl:area id="dc4ec041-ffe9-4796-a1af-1917991c595a">
+      <matl:protocolId>bb812e93-c588-4260-93a1-d7a8da37154f</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0080.oir</matl:image>
+      <matl:xIndex>7</matl:xIndex>
+      <matl:yIndex>4</matl:yIndex>
+    </matl:area>
+    <matl:area id="10d96fd7-6462-42bf-ba56-573b05e60231">
+      <matl:protocolId>d5882961-ff63-409e-a1f3-971bc011af19</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0081.oir</matl:image>
+      <matl:xIndex>8</matl:xIndex>
+      <matl:yIndex>4</matl:yIndex>
+    </matl:area>
+    <matl:area id="bc7fca7c-8361-4790-865d-a75214df1aa4">
+      <matl:protocolId>12e1fc32-437e-4afe-8567-42b6cbcc6d5f</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0082.oir</matl:image>
+      <matl:xIndex>9</matl:xIndex>
+      <matl:yIndex>4</matl:yIndex>
+    </matl:area>
+    <matl:area id="7858673d-b664-411d-a505-aa97fba7b391">
+      <matl:protocolId>64596634-4e0f-45ac-ac7c-c4cd0b3a005b</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0083.oir</matl:image>
+      <matl:xIndex>10</matl:xIndex>
+      <matl:yIndex>4</matl:yIndex>
+    </matl:area>
+    <matl:area id="428606a4-d95d-4a9d-adb8-52e5d49d975e">
+      <matl:protocolId>08d0c499-132c-4896-a54a-469c993cff26</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0084.oir</matl:image>
+      <matl:xIndex>11</matl:xIndex>
+      <matl:yIndex>4</matl:yIndex>
+    </matl:area>
+    <matl:area id="1df3c34a-11cd-46e4-b802-67ff7a0c1eed">
+      <matl:protocolId>dc5b9846-e498-4533-9ca5-e650cdbe9e9c</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0085.oir</matl:image>
+      <matl:xIndex>12</matl:xIndex>
+      <matl:yIndex>4</matl:yIndex>
+    </matl:area>
+    <matl:area id="832ba6b9-0041-4787-9da2-d7dbf5355925">
+      <matl:protocolId>6babe7c7-3362-48fb-b64f-95caf8f33b8d</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0086.oir</matl:image>
+      <matl:xIndex>13</matl:xIndex>
+      <matl:yIndex>4</matl:yIndex>
+    </matl:area>
+    <matl:area id="79825699-e07d-415d-af34-5daa20874d77">
+      <matl:protocolId>0fe20387-5ee6-4614-8bd4-c4bb5c03a5b7</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0087.oir</matl:image>
+      <matl:xIndex>14</matl:xIndex>
+      <matl:yIndex>4</matl:yIndex>
+    </matl:area>
+    <matl:area id="180244b6-858b-4b42-bebd-702a43011e93">
+      <matl:protocolId>07c365b2-4285-46f2-9922-9bf14d39c577</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0088.oir</matl:image>
+      <matl:xIndex>15</matl:xIndex>
+      <matl:yIndex>4</matl:yIndex>
+    </matl:area>
+    <matl:area id="c0b124a9-bdb2-4b80-9ccb-0732b98da473">
+      <matl:protocolId>d57b9b04-8362-4b5a-9275-152580912bde</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0089.oir</matl:image>
+      <matl:xIndex>16</matl:xIndex>
+      <matl:yIndex>4</matl:yIndex>
+    </matl:area>
+    <matl:area id="61794184-d494-4b2a-86aa-7006156b0de5">
+      <matl:protocolId>d0470c59-9e06-451b-8caa-070b91fbab51</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0090.oir</matl:image>
+      <matl:xIndex>17</matl:xIndex>
+      <matl:yIndex>4</matl:yIndex>
+    </matl:area>
+    <matl:area id="e2fcd1c6-8b77-4e30-b083-962cb9fccae3">
+      <matl:protocolId>e647dd2e-06aa-4014-81f4-d4fc1b5478ea</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0091.oir</matl:image>
+      <matl:xIndex>17</matl:xIndex>
+      <matl:yIndex>5</matl:yIndex>
+    </matl:area>
+    <matl:area id="37b9eeca-8b3c-4f01-906d-da0143416d52">
+      <matl:protocolId>9ac17f22-2146-4e0c-845d-bb111fe0b657</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0092.oir</matl:image>
+      <matl:xIndex>16</matl:xIndex>
+      <matl:yIndex>5</matl:yIndex>
+    </matl:area>
+    <matl:area id="baa21ace-0734-482d-9302-10c412d1abd9">
+      <matl:protocolId>4779e417-3379-48ba-9455-1e2d8680a385</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0093.oir</matl:image>
+      <matl:xIndex>15</matl:xIndex>
+      <matl:yIndex>5</matl:yIndex>
+    </matl:area>
+    <matl:area id="4e034b25-3b61-494b-bfd5-737e8fe4fc0d">
+      <matl:protocolId>54399ceb-f414-4cd3-8c25-4c25a10ca251</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0094.oir</matl:image>
+      <matl:xIndex>14</matl:xIndex>
+      <matl:yIndex>5</matl:yIndex>
+    </matl:area>
+    <matl:area id="91288840-2bb4-4678-9166-10d45f4a0296">
+      <matl:protocolId>085442fb-5b3d-48c6-a335-f718e1f1848a</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0095.oir</matl:image>
+      <matl:xIndex>13</matl:xIndex>
+      <matl:yIndex>5</matl:yIndex>
+    </matl:area>
+    <matl:area id="8d82d104-c86e-40e0-87b8-5ecb4962c40c">
+      <matl:protocolId>f25923d3-80d7-46f8-8ce3-824cbf103442</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0096.oir</matl:image>
+      <matl:xIndex>12</matl:xIndex>
+      <matl:yIndex>5</matl:yIndex>
+    </matl:area>
+    <matl:area id="00f66857-098e-4ea9-bdae-791ce4eebab3">
+      <matl:protocolId>ed698240-6f43-406a-8bb9-3d611c43bd39</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0097.oir</matl:image>
+      <matl:xIndex>11</matl:xIndex>
+      <matl:yIndex>5</matl:yIndex>
+    </matl:area>
+    <matl:area id="bfd07c06-07e7-4c4a-9905-99330ea1cc15">
+      <matl:protocolId>3d10f839-0b7e-4bdd-9727-f87a455bc480</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0098.oir</matl:image>
+      <matl:xIndex>10</matl:xIndex>
+      <matl:yIndex>5</matl:yIndex>
+    </matl:area>
+    <matl:area id="28448566-9a74-4a6e-a141-40cbbf381c04">
+      <matl:protocolId>0c9b978d-9508-455a-9d72-c7e99bd2d8fa</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0099.oir</matl:image>
+      <matl:xIndex>9</matl:xIndex>
+      <matl:yIndex>5</matl:yIndex>
+    </matl:area>
+    <matl:area id="19b77024-daba-45f1-a75f-595d8b905877">
+      <matl:protocolId>81b689a0-5378-4ad8-8e67-68589abe97a4</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0100.oir</matl:image>
+      <matl:xIndex>8</matl:xIndex>
+      <matl:yIndex>5</matl:yIndex>
+    </matl:area>
+    <matl:area id="a6a21cb9-5de1-4cbe-8a7f-e5e8515c4cbb">
+      <matl:protocolId>69aadf34-e9da-4012-ac09-b543b0375f5d</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0101.oir</matl:image>
+      <matl:xIndex>7</matl:xIndex>
+      <matl:yIndex>5</matl:yIndex>
+    </matl:area>
+    <matl:area id="d664dafe-0ade-456c-9d85-c94ae1caf802">
+      <matl:protocolId>61b31d39-3616-45e7-a8e7-7e99897cc1ee</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0102.oir</matl:image>
+      <matl:xIndex>6</matl:xIndex>
+      <matl:yIndex>5</matl:yIndex>
+    </matl:area>
+    <matl:area id="d70fe6d5-bff9-404e-af5f-c81e1b27f802">
+      <matl:protocolId>9bde4fd7-3be4-4436-bd5d-554c9c236866</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0103.oir</matl:image>
+      <matl:xIndex>5</matl:xIndex>
+      <matl:yIndex>5</matl:yIndex>
+    </matl:area>
+    <matl:area id="385df685-7415-42d2-b680-cf9168cb3768">
+      <matl:protocolId>8edbf8d9-0d65-4760-8958-4f7e72f47a57</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0104.oir</matl:image>
+      <matl:xIndex>4</matl:xIndex>
+      <matl:yIndex>5</matl:yIndex>
+    </matl:area>
+    <matl:area id="0b7fb3fb-2866-49a2-bbe5-2f0d2aa4cd11">
+      <matl:protocolId>25b5989c-cb5c-4d37-a2f9-082eb29374c4</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0105.oir</matl:image>
+      <matl:xIndex>3</matl:xIndex>
+      <matl:yIndex>5</matl:yIndex>
+    </matl:area>
+    <matl:area id="2dabac1a-c40d-440e-87eb-36abb916cd10">
+      <matl:protocolId>1d52be72-54ef-4b3b-bafd-0dfc665db0e3</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0106.oir</matl:image>
+      <matl:xIndex>2</matl:xIndex>
+      <matl:yIndex>5</matl:yIndex>
+    </matl:area>
+    <matl:area id="66e39498-cbad-40b3-b42c-c89f397e634e">
+      <matl:protocolId>c6226e35-36fd-4361-a3c6-c89c1a504619</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0107.oir</matl:image>
+      <matl:xIndex>1</matl:xIndex>
+      <matl:yIndex>5</matl:yIndex>
+    </matl:area>
+    <matl:area id="fbfc5fcf-34e4-4800-839d-ec5136c2813d">
+      <matl:protocolId>edd98d6c-3787-46de-b89d-a14734419e44</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0108.oir</matl:image>
+      <matl:xIndex>0</matl:xIndex>
+      <matl:yIndex>5</matl:yIndex>
+    </matl:area>
+    <matl:area id="5de517ce-ae6e-4412-b473-8315b5cbbb00">
+      <matl:protocolId>0694c7c5-3ea2-4530-8f84-dd24f6c33ee5</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0109.oir</matl:image>
+      <matl:xIndex>0</matl:xIndex>
+      <matl:yIndex>6</matl:yIndex>
+    </matl:area>
+    <matl:area id="e08987f5-d0db-462f-ab83-aa34d4366047">
+      <matl:protocolId>b60c978c-dec4-420a-b756-ae05ab069601</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0110.oir</matl:image>
+      <matl:xIndex>1</matl:xIndex>
+      <matl:yIndex>6</matl:yIndex>
+    </matl:area>
+    <matl:area id="ddbce8d3-b28f-43f5-95a0-35fd76ef1df1">
+      <matl:protocolId>1615c507-67a3-4539-964a-9d28e7ea3314</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0111.oir</matl:image>
+      <matl:xIndex>2</matl:xIndex>
+      <matl:yIndex>6</matl:yIndex>
+    </matl:area>
+    <matl:area id="8044fa79-c39d-424a-9000-5c77adc13664">
+      <matl:protocolId>bdc29eec-f7c9-4a6a-b3b9-d64c025c2709</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0112.oir</matl:image>
+      <matl:xIndex>3</matl:xIndex>
+      <matl:yIndex>6</matl:yIndex>
+    </matl:area>
+    <matl:area id="d07cb18f-72f2-42fe-98e7-794f05fd459a">
+      <matl:protocolId>835d1bc1-0be5-4a63-9a24-2b8c64bda810</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0113.oir</matl:image>
+      <matl:xIndex>4</matl:xIndex>
+      <matl:yIndex>6</matl:yIndex>
+    </matl:area>
+    <matl:area id="dee08b6f-bc50-4f7f-aafa-b4222812484d">
+      <matl:protocolId>6794f991-0516-4e88-9f3d-e2212b9f2c5a</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0114.oir</matl:image>
+      <matl:xIndex>5</matl:xIndex>
+      <matl:yIndex>6</matl:yIndex>
+    </matl:area>
+    <matl:area id="a34478ab-3857-4e34-812c-8a78145a35bf">
+      <matl:protocolId>001a0c9c-3c98-482c-91d5-0063abbcc424</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0115.oir</matl:image>
+      <matl:xIndex>6</matl:xIndex>
+      <matl:yIndex>6</matl:yIndex>
+    </matl:area>
+    <matl:area id="2c195f91-0441-403a-9de5-39ec01d8c1c8">
+      <matl:protocolId>c52175c6-8075-40f0-85a1-65929fc8911a</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0116.oir</matl:image>
+      <matl:xIndex>7</matl:xIndex>
+      <matl:yIndex>6</matl:yIndex>
+    </matl:area>
+    <matl:area id="fe81cf30-3a83-4031-87f7-d250f3285e68">
+      <matl:protocolId>19c45f61-636b-4db1-b363-764120f1d7d5</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0117.oir</matl:image>
+      <matl:xIndex>8</matl:xIndex>
+      <matl:yIndex>6</matl:yIndex>
+    </matl:area>
+    <matl:area id="c9ebf2fc-3d8f-4467-af85-3d05a0d13d3f">
+      <matl:protocolId>a6aac737-abaa-40dd-9857-1af045faf1e2</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0118.oir</matl:image>
+      <matl:xIndex>9</matl:xIndex>
+      <matl:yIndex>6</matl:yIndex>
+    </matl:area>
+    <matl:area id="e3d60b00-a761-49b8-9364-23b102c5a0bc">
+      <matl:protocolId>90a5050e-01fc-472b-94a2-039e65dc160f</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0119.oir</matl:image>
+      <matl:xIndex>10</matl:xIndex>
+      <matl:yIndex>6</matl:yIndex>
+    </matl:area>
+    <matl:area id="50a47e59-317d-4202-84d2-72fb7e50c28e">
+      <matl:protocolId>a78a0ff7-8b19-45f2-b303-5ffe83d92c53</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0120.oir</matl:image>
+      <matl:xIndex>11</matl:xIndex>
+      <matl:yIndex>6</matl:yIndex>
+    </matl:area>
+    <matl:area id="9f1a7f8a-f317-4fe7-986c-c281a0d296d6">
+      <matl:protocolId>216c6183-3f73-4be9-a377-0d42c2793acc</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0121.oir</matl:image>
+      <matl:xIndex>12</matl:xIndex>
+      <matl:yIndex>6</matl:yIndex>
+    </matl:area>
+    <matl:area id="0d622f36-16a7-49c6-a75e-ea96db3d57f2">
+      <matl:protocolId>7fd542f9-a5f2-4d3f-8a5a-f3d8c58cf7ea</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0122.oir</matl:image>
+      <matl:xIndex>13</matl:xIndex>
+      <matl:yIndex>6</matl:yIndex>
+    </matl:area>
+    <matl:area id="19a30aae-3ae2-4615-9a31-66b9c889b3bf">
+      <matl:protocolId>a847ca5a-8214-4a6a-ae5c-d6c2527ea9ee</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0123.oir</matl:image>
+      <matl:xIndex>14</matl:xIndex>
+      <matl:yIndex>6</matl:yIndex>
+    </matl:area>
+    <matl:area id="cad4301d-91e8-4f68-b075-d2a8264d8d6d">
+      <matl:protocolId>54b9aa7a-2743-47af-963d-3f7b48584b1a</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0124.oir</matl:image>
+      <matl:xIndex>15</matl:xIndex>
+      <matl:yIndex>6</matl:yIndex>
+    </matl:area>
+    <matl:area id="54cc809f-ca8d-4ae3-8094-c2a7cf441796">
+      <matl:protocolId>d10734e5-f9c8-4efd-af35-f67f93ac9689</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0125.oir</matl:image>
+      <matl:xIndex>16</matl:xIndex>
+      <matl:yIndex>6</matl:yIndex>
+    </matl:area>
+    <matl:area id="1bf84265-5d06-432d-9aa4-6f9e913bc8dc">
+      <matl:protocolId>fdc9f683-6d60-45fc-8101-8aefeb2e6996</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0126.oir</matl:image>
+      <matl:xIndex>17</matl:xIndex>
+      <matl:yIndex>6</matl:yIndex>
+    </matl:area>
+    <matl:area id="129c4e21-5349-4e0c-ab5f-b90cd58ff938">
+      <matl:protocolId>70b1a3a4-df09-4cce-ad2e-a7dfc29a00fe</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0127.oir</matl:image>
+      <matl:xIndex>17</matl:xIndex>
+      <matl:yIndex>7</matl:yIndex>
+    </matl:area>
+    <matl:area id="6b510134-04b8-4f4b-a06c-4ac6478bf5c1">
+      <matl:protocolId>7627560c-4fc4-4da8-a5cb-720722a5a39e</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0128.oir</matl:image>
+      <matl:xIndex>16</matl:xIndex>
+      <matl:yIndex>7</matl:yIndex>
+    </matl:area>
+    <matl:area id="64245e2a-59fe-48bb-9345-20f0cbb074b5">
+      <matl:protocolId>9a675bcc-62ca-4adb-8f30-2071fda01816</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0129.oir</matl:image>
+      <matl:xIndex>15</matl:xIndex>
+      <matl:yIndex>7</matl:yIndex>
+    </matl:area>
+    <matl:area id="9928b97c-45f8-4967-b3fc-846a48af27c0">
+      <matl:protocolId>7b0e5e99-01e6-42e6-98e1-a82a92f5ccbb</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0130.oir</matl:image>
+      <matl:xIndex>14</matl:xIndex>
+      <matl:yIndex>7</matl:yIndex>
+    </matl:area>
+    <matl:area id="d4e26ee4-8d38-4946-8b88-be8a3e3c3aa6">
+      <matl:protocolId>c1fb0f38-15e4-4cad-8ec0-fc3b17eaacfa</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0131.oir</matl:image>
+      <matl:xIndex>13</matl:xIndex>
+      <matl:yIndex>7</matl:yIndex>
+    </matl:area>
+    <matl:area id="2adf802c-9c1d-49be-acac-687ac6a4f584">
+      <matl:protocolId>47b0b4a7-13d2-4ed2-87ca-2142587420e8</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0132.oir</matl:image>
+      <matl:xIndex>12</matl:xIndex>
+      <matl:yIndex>7</matl:yIndex>
+    </matl:area>
+    <matl:area id="1412521c-26e5-4f0c-adc9-f0972379b697">
+      <matl:protocolId>2b7b8463-00bb-4c99-bf4a-370dbd7e4ba0</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0133.oir</matl:image>
+      <matl:xIndex>11</matl:xIndex>
+      <matl:yIndex>7</matl:yIndex>
+    </matl:area>
+    <matl:area id="c182e268-2aba-4897-afec-27c166ff72c0">
+      <matl:protocolId>86ddcbe7-68d7-41eb-8a88-d1efdd942c1f</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0134.oir</matl:image>
+      <matl:xIndex>10</matl:xIndex>
+      <matl:yIndex>7</matl:yIndex>
+    </matl:area>
+    <matl:area id="11b3df3a-b523-4c66-b78f-108d7d1b84a9">
+      <matl:protocolId>267170f4-1d7c-432c-93ee-bb96e733bd32</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0135.oir</matl:image>
+      <matl:xIndex>9</matl:xIndex>
+      <matl:yIndex>7</matl:yIndex>
+    </matl:area>
+    <matl:area id="efe38f84-7d00-4cfb-acc2-1804e3725747">
+      <matl:protocolId>53fb7e20-d601-4555-bdba-ef60dc02373d</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0136.oir</matl:image>
+      <matl:xIndex>8</matl:xIndex>
+      <matl:yIndex>7</matl:yIndex>
+    </matl:area>
+    <matl:area id="28f2fba9-1048-4c45-a8af-4d9e667024e5">
+      <matl:protocolId>d7baa16e-3446-497c-b47a-c8e1e778c7f2</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0137.oir</matl:image>
+      <matl:xIndex>7</matl:xIndex>
+      <matl:yIndex>7</matl:yIndex>
+    </matl:area>
+    <matl:area id="781331f2-2d2f-4850-8f5f-e5d79dfad93b">
+      <matl:protocolId>dd54358e-8fec-4ec9-8fb1-68dfd291ef4b</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0138.oir</matl:image>
+      <matl:xIndex>6</matl:xIndex>
+      <matl:yIndex>7</matl:yIndex>
+    </matl:area>
+    <matl:area id="ff2a04c9-1867-4448-a32b-87589294db75">
+      <matl:protocolId>2909e1ef-c84c-41f0-a265-94d1cbd0ffcb</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0139.oir</matl:image>
+      <matl:xIndex>5</matl:xIndex>
+      <matl:yIndex>7</matl:yIndex>
+    </matl:area>
+    <matl:area id="38c30d7b-d066-4db3-884a-51bdd12a6c19">
+      <matl:protocolId>dbf3d0fc-3b8d-445f-8d80-be580d3cae53</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0140.oir</matl:image>
+      <matl:xIndex>4</matl:xIndex>
+      <matl:yIndex>7</matl:yIndex>
+    </matl:area>
+    <matl:area id="7988c693-5fbd-4823-924e-c5a531d9b796">
+      <matl:protocolId>1538bd20-19de-442e-afd6-06eabb64d838</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0141.oir</matl:image>
+      <matl:xIndex>3</matl:xIndex>
+      <matl:yIndex>7</matl:yIndex>
+    </matl:area>
+    <matl:area id="e0540f5b-07af-4175-a436-4360b4b1d447">
+      <matl:protocolId>385c3260-9891-4314-b210-488d4d9717b4</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0142.oir</matl:image>
+      <matl:xIndex>2</matl:xIndex>
+      <matl:yIndex>7</matl:yIndex>
+    </matl:area>
+    <matl:area id="55cdffb5-301e-4065-bd3e-137ea3bc8b81">
+      <matl:protocolId>45648987-8e1a-4948-9c2c-1e105c1c1b1c</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0143.oir</matl:image>
+      <matl:xIndex>1</matl:xIndex>
+      <matl:yIndex>7</matl:yIndex>
+    </matl:area>
+    <matl:area id="21b35133-6c35-4c05-9eff-accb801a5c9c">
+      <matl:protocolId>8134422a-040d-4001-abd1-881ce7ad6e6d</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0144.oir</matl:image>
+      <matl:xIndex>0</matl:xIndex>
+      <matl:yIndex>7</matl:yIndex>
+    </matl:area>
+    <matl:area id="c11b1900-8c85-44f0-9e96-adf4e23126e4">
+      <matl:protocolId>465079f0-eeff-4894-aeec-7177230be83c</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0145.oir</matl:image>
+      <matl:xIndex>0</matl:xIndex>
+      <matl:yIndex>8</matl:yIndex>
+    </matl:area>
+    <matl:area id="00f0dd41-801c-4666-b588-d6fec9eabe70">
+      <matl:protocolId>38c92657-745f-435a-973d-d2ba9bbba586</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0146.oir</matl:image>
+      <matl:xIndex>1</matl:xIndex>
+      <matl:yIndex>8</matl:yIndex>
+    </matl:area>
+    <matl:area id="b091f48b-a939-4aba-a624-2aa47cd75e42">
+      <matl:protocolId>ad868eea-1081-44eb-88ca-ba1e514f7b83</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0147.oir</matl:image>
+      <matl:xIndex>2</matl:xIndex>
+      <matl:yIndex>8</matl:yIndex>
+    </matl:area>
+    <matl:area id="aed638d0-0a5b-46c7-98d1-7829ba9d0604">
+      <matl:protocolId>c184de05-a7af-48e1-bc46-491c31aedea0</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0148.oir</matl:image>
+      <matl:xIndex>3</matl:xIndex>
+      <matl:yIndex>8</matl:yIndex>
+    </matl:area>
+    <matl:area id="3e3883d9-5ec5-4b96-9e29-255484dfe2a7">
+      <matl:protocolId>2a7c3275-6333-439c-a03d-18f542796f17</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0149.oir</matl:image>
+      <matl:xIndex>4</matl:xIndex>
+      <matl:yIndex>8</matl:yIndex>
+    </matl:area>
+    <matl:area id="28fe5b5b-7a44-49a2-a175-aa1c01a64147">
+      <matl:protocolId>dba75b5b-1fdb-4aaa-8f44-756d9c0b769a</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0150.oir</matl:image>
+      <matl:xIndex>5</matl:xIndex>
+      <matl:yIndex>8</matl:yIndex>
+    </matl:area>
+    <matl:area id="d3867b3c-0e99-4194-9fba-5291f58431ad">
+      <matl:protocolId>4295af94-ec68-4a63-a74d-404a9575d6e1</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0151.oir</matl:image>
+      <matl:xIndex>6</matl:xIndex>
+      <matl:yIndex>8</matl:yIndex>
+    </matl:area>
+    <matl:area id="31a29828-817b-42ec-8eab-f15500bd6e5f">
+      <matl:protocolId>af819d43-7d68-4ac9-ab33-7219a1513c47</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0152.oir</matl:image>
+      <matl:xIndex>7</matl:xIndex>
+      <matl:yIndex>8</matl:yIndex>
+    </matl:area>
+    <matl:area id="9396737c-45a8-4121-9a74-de73a323ddae">
+      <matl:protocolId>bf0bfba8-3546-4f3c-89e7-f813681353ab</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0153.oir</matl:image>
+      <matl:xIndex>8</matl:xIndex>
+      <matl:yIndex>8</matl:yIndex>
+    </matl:area>
+    <matl:area id="3bf38a0d-1f10-479f-9ef5-907b6ea7fed7">
+      <matl:protocolId>da6ce47a-5e23-4577-beb5-0774e23c5be8</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0154.oir</matl:image>
+      <matl:xIndex>9</matl:xIndex>
+      <matl:yIndex>8</matl:yIndex>
+    </matl:area>
+    <matl:area id="52db411f-0ec2-4da8-9ab2-d92210cb590a">
+      <matl:protocolId>71edb372-2803-4c6b-be17-4b9dde56a365</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0155.oir</matl:image>
+      <matl:xIndex>10</matl:xIndex>
+      <matl:yIndex>8</matl:yIndex>
+    </matl:area>
+    <matl:area id="9702ee53-7d21-498f-88bd-181540271864">
+      <matl:protocolId>d4181db4-94cf-48e8-b737-2f0165e3992f</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0156.oir</matl:image>
+      <matl:xIndex>11</matl:xIndex>
+      <matl:yIndex>8</matl:yIndex>
+    </matl:area>
+    <matl:area id="cea606dc-b8be-4dbf-9daf-5fc59092b1da">
+      <matl:protocolId>de4c6ab9-3fe0-481f-8061-82b1c08236d1</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0157.oir</matl:image>
+      <matl:xIndex>12</matl:xIndex>
+      <matl:yIndex>8</matl:yIndex>
+    </matl:area>
+    <matl:area id="b0914fb0-812b-4da3-818b-d6e2bf15b72e">
+      <matl:protocolId>9aae56dc-bef4-4dcb-8b48-f5a7ee5d282d</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0158.oir</matl:image>
+      <matl:xIndex>13</matl:xIndex>
+      <matl:yIndex>8</matl:yIndex>
+    </matl:area>
+    <matl:area id="98f0ad0f-5ff9-40ba-afaa-b69bf4d141e0">
+      <matl:protocolId>c857aebc-e270-4219-b2a6-ae609b637034</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0159.oir</matl:image>
+      <matl:xIndex>14</matl:xIndex>
+      <matl:yIndex>8</matl:yIndex>
+    </matl:area>
+    <matl:area id="34ab7dc1-6ded-4f1d-8ddb-c41e267b00a4">
+      <matl:protocolId>f758eb1b-43f7-4b72-9085-5b7851623614</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0160.oir</matl:image>
+      <matl:xIndex>15</matl:xIndex>
+      <matl:yIndex>8</matl:yIndex>
+    </matl:area>
+    <matl:area id="4ab04c20-e137-4e93-94c1-f19bdb216da9">
+      <matl:protocolId>96582c9f-cf01-4b57-95da-140b187343ef</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0161.oir</matl:image>
+      <matl:xIndex>16</matl:xIndex>
+      <matl:yIndex>8</matl:yIndex>
+    </matl:area>
+    <matl:area id="f99f8c3e-51e2-4e35-bb28-bf206a1c6350">
+      <matl:protocolId>4eadb332-9ca4-4e34-be72-ee946dbe93ab</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0162.oir</matl:image>
+      <matl:xIndex>17</matl:xIndex>
+      <matl:yIndex>8</matl:yIndex>
+    </matl:area>
+    <matl:area id="61808413-3988-4e14-824a-d95a70638eeb">
+      <matl:protocolId>5c04358e-1a08-48a7-bf74-3c1364754475</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0163.oir</matl:image>
+      <matl:xIndex>17</matl:xIndex>
+      <matl:yIndex>9</matl:yIndex>
+    </matl:area>
+    <matl:area id="2271c563-1732-4e4e-80be-4e3a55e65230">
+      <matl:protocolId>76473355-0a7b-4ad0-8ec9-13c7dd51dcff</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0164.oir</matl:image>
+      <matl:xIndex>16</matl:xIndex>
+      <matl:yIndex>9</matl:yIndex>
+    </matl:area>
+    <matl:area id="a77fc03a-7f66-4509-93ac-29089a4dd82a">
+      <matl:protocolId>8b8a58c5-f72e-4193-b387-6d54bff5fdf4</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0165.oir</matl:image>
+      <matl:xIndex>15</matl:xIndex>
+      <matl:yIndex>9</matl:yIndex>
+    </matl:area>
+    <matl:area id="b96acb4b-f079-4479-9953-b2b5f207a36c">
+      <matl:protocolId>d79b34c5-b29a-4b3c-baa3-43d7a0e35f1e</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0166.oir</matl:image>
+      <matl:xIndex>14</matl:xIndex>
+      <matl:yIndex>9</matl:yIndex>
+    </matl:area>
+    <matl:area id="12950ec7-3953-4990-8ce0-d3f489ee075c">
+      <matl:protocolId>4715d2db-6f91-46cf-9d44-1579096c98f4</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0167.oir</matl:image>
+      <matl:xIndex>13</matl:xIndex>
+      <matl:yIndex>9</matl:yIndex>
+    </matl:area>
+    <matl:area id="74f8569e-b57b-4968-922a-f672c6f11804">
+      <matl:protocolId>f3574e78-508a-42f1-9822-ac1b1c658ecc</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0168.oir</matl:image>
+      <matl:xIndex>12</matl:xIndex>
+      <matl:yIndex>9</matl:yIndex>
+    </matl:area>
+    <matl:area id="4a768607-ee5a-4875-901b-de594ff0d097">
+      <matl:protocolId>5a41dff6-863c-4521-adb2-e4090c905593</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0169.oir</matl:image>
+      <matl:xIndex>11</matl:xIndex>
+      <matl:yIndex>9</matl:yIndex>
+    </matl:area>
+    <matl:area id="028c7997-98c9-4467-af2e-30b00daad51e">
+      <matl:protocolId>f297ff89-5f12-40ff-bcc5-667114430751</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0170.oir</matl:image>
+      <matl:xIndex>10</matl:xIndex>
+      <matl:yIndex>9</matl:yIndex>
+    </matl:area>
+    <matl:area id="5d527347-6c01-46b7-a0a7-74b71862d3f9">
+      <matl:protocolId>ade9218d-c271-4b7b-8ddc-032da4cc4a95</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0171.oir</matl:image>
+      <matl:xIndex>9</matl:xIndex>
+      <matl:yIndex>9</matl:yIndex>
+    </matl:area>
+    <matl:area id="e82d24b1-2989-4430-883d-8af1b8e0e33a">
+      <matl:protocolId>f56a87ed-5bae-4d69-b03a-a7bee6a46e80</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0172.oir</matl:image>
+      <matl:xIndex>8</matl:xIndex>
+      <matl:yIndex>9</matl:yIndex>
+    </matl:area>
+    <matl:area id="1b9634ad-231c-4de2-8a25-db103ed3e96d">
+      <matl:protocolId>4fdef00f-057e-4ff0-b916-14fe5cbf1ff8</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0173.oir</matl:image>
+      <matl:xIndex>7</matl:xIndex>
+      <matl:yIndex>9</matl:yIndex>
+    </matl:area>
+    <matl:area id="7037d8de-5a8e-4b66-aced-9e93f1c902a2">
+      <matl:protocolId>13282c40-af5a-4cd2-ae34-a8b7a66df328</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0174.oir</matl:image>
+      <matl:xIndex>6</matl:xIndex>
+      <matl:yIndex>9</matl:yIndex>
+    </matl:area>
+    <matl:area id="31dd9c59-20ef-4b88-9dc5-4bc0447359d2">
+      <matl:protocolId>e65257c7-c348-4e6a-a5da-6c5195634e44</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0175.oir</matl:image>
+      <matl:xIndex>5</matl:xIndex>
+      <matl:yIndex>9</matl:yIndex>
+    </matl:area>
+    <matl:area id="c61476d0-24b6-4403-81cf-47fd80906677">
+      <matl:protocolId>f7454a27-b485-43cc-8a1d-bfad8830ba29</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0176.oir</matl:image>
+      <matl:xIndex>4</matl:xIndex>
+      <matl:yIndex>9</matl:yIndex>
+    </matl:area>
+    <matl:area id="d8754f02-8bef-4606-b5b2-fb52a2b54b9b">
+      <matl:protocolId>914938a9-61c0-4a7a-a76f-17f598ec7294</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0177.oir</matl:image>
+      <matl:xIndex>3</matl:xIndex>
+      <matl:yIndex>9</matl:yIndex>
+    </matl:area>
+    <matl:area id="1d0138f2-c28a-41d2-b328-7316f3b2ee1f">
+      <matl:protocolId>a7617edc-87c8-484a-be48-992aa3db22a5</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0178.oir</matl:image>
+      <matl:xIndex>2</matl:xIndex>
+      <matl:yIndex>9</matl:yIndex>
+    </matl:area>
+    <matl:area id="4f4426ba-b51e-4f06-ac84-ec8fbea3ca95">
+      <matl:protocolId>c707e101-dd96-4519-8125-1b386ec20112</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0179.oir</matl:image>
+      <matl:xIndex>1</matl:xIndex>
+      <matl:yIndex>9</matl:yIndex>
+    </matl:area>
+    <matl:area id="aeda465e-653d-4936-96a4-a8995e8789b1">
+      <matl:protocolId>8a6ef4d0-3fef-48ee-976e-eb8c44ee83b9</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0180.oir</matl:image>
+      <matl:xIndex>0</matl:xIndex>
+      <matl:yIndex>9</matl:yIndex>
+    </matl:area>
+    <matl:area id="f9e9c375-b475-4ef7-a5dd-8b092e92b321">
+      <matl:protocolId>08390a15-bca7-419e-9e34-bc67d020da96</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0181.oir</matl:image>
+      <matl:xIndex>0</matl:xIndex>
+      <matl:yIndex>10</matl:yIndex>
+    </matl:area>
+    <matl:area id="a58f5622-77ba-46ae-93b6-1e419ed7efa4">
+      <matl:protocolId>fe02c981-9d6e-4dd8-87b2-a9c13bfee7e4</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0182.oir</matl:image>
+      <matl:xIndex>1</matl:xIndex>
+      <matl:yIndex>10</matl:yIndex>
+    </matl:area>
+    <matl:area id="2d25a620-47c4-46de-af89-704577482689">
+      <matl:protocolId>3b3a9e38-9a1f-452c-a451-5eff15969518</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0183.oir</matl:image>
+      <matl:xIndex>2</matl:xIndex>
+      <matl:yIndex>10</matl:yIndex>
+    </matl:area>
+    <matl:area id="78667390-3674-445d-a7db-0c684a284bf0">
+      <matl:protocolId>f3fbe8db-e587-45d7-9742-5f7f00752706</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0184.oir</matl:image>
+      <matl:xIndex>3</matl:xIndex>
+      <matl:yIndex>10</matl:yIndex>
+    </matl:area>
+    <matl:area id="c6ea24dd-914c-4465-9529-b07d2009ce8a">
+      <matl:protocolId>1915c391-2f22-4c61-b6d7-972d0d31f8cc</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0185.oir</matl:image>
+      <matl:xIndex>4</matl:xIndex>
+      <matl:yIndex>10</matl:yIndex>
+    </matl:area>
+    <matl:area id="082d58a3-4c7d-4d67-909a-1da85851f515">
+      <matl:protocolId>8a805cc4-ae6b-41f7-bb76-45307db30c91</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0186.oir</matl:image>
+      <matl:xIndex>5</matl:xIndex>
+      <matl:yIndex>10</matl:yIndex>
+    </matl:area>
+    <matl:area id="c42571ad-f7ef-4bc7-ae02-a47722887b2f">
+      <matl:protocolId>1e9e2cdb-2142-423a-b1e4-bf42ba8f1894</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0187.oir</matl:image>
+      <matl:xIndex>6</matl:xIndex>
+      <matl:yIndex>10</matl:yIndex>
+    </matl:area>
+    <matl:area id="c36777cf-44fa-4055-b6ed-ba86c8dfcf14">
+      <matl:protocolId>135fc417-d4b8-4da6-9aa2-50edad025d8a</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0188.oir</matl:image>
+      <matl:xIndex>7</matl:xIndex>
+      <matl:yIndex>10</matl:yIndex>
+    </matl:area>
+    <matl:area id="696be213-e610-494f-8e10-4b4c7d9bcedb">
+      <matl:protocolId>e0a8411b-9ebf-4a04-bf12-7a982398ccfb</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0189.oir</matl:image>
+      <matl:xIndex>8</matl:xIndex>
+      <matl:yIndex>10</matl:yIndex>
+    </matl:area>
+    <matl:area id="d2fba989-3f10-4e6d-a9dd-dee40d1e5c80">
+      <matl:protocolId>0db89b30-34b4-45a1-9049-c2a9a1e9c206</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0190.oir</matl:image>
+      <matl:xIndex>9</matl:xIndex>
+      <matl:yIndex>10</matl:yIndex>
+    </matl:area>
+    <matl:area id="b97f3269-7c60-40c1-a8d8-8e4fe137356f">
+      <matl:protocolId>53122cbd-4f59-41c9-9fbf-f6fada4947f5</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0191.oir</matl:image>
+      <matl:xIndex>10</matl:xIndex>
+      <matl:yIndex>10</matl:yIndex>
+    </matl:area>
+    <matl:area id="e3bda254-d1d6-4bba-be50-157978b7631a">
+      <matl:protocolId>f8eeaebd-cc69-4ad0-9ced-b72b75e728a6</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0192.oir</matl:image>
+      <matl:xIndex>11</matl:xIndex>
+      <matl:yIndex>10</matl:yIndex>
+    </matl:area>
+    <matl:area id="ee5668b1-5286-4709-95d9-cb5f615f9669">
+      <matl:protocolId>c6c6a4b1-b387-48ff-9b71-3e626ce357d5</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0193.oir</matl:image>
+      <matl:xIndex>12</matl:xIndex>
+      <matl:yIndex>10</matl:yIndex>
+    </matl:area>
+    <matl:area id="f1f7ca22-bf60-4a27-82e4-7422a2cfa1aa">
+      <matl:protocolId>1d1587f6-6b87-4580-a967-94572264bd15</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0194.oir</matl:image>
+      <matl:xIndex>13</matl:xIndex>
+      <matl:yIndex>10</matl:yIndex>
+    </matl:area>
+    <matl:area id="2e2843ef-ba3a-4c7d-b138-f3ca7dd822b0">
+      <matl:protocolId>196a366f-9f97-4fda-9a99-1a1892c48cb4</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0195.oir</matl:image>
+      <matl:xIndex>14</matl:xIndex>
+      <matl:yIndex>10</matl:yIndex>
+    </matl:area>
+    <matl:area id="f60a7eff-58e0-47cb-9cce-2ec5eb8865ea">
+      <matl:protocolId>1c4b3dfb-d29c-43e4-ab78-77ecd8ccbbe1</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0196.oir</matl:image>
+      <matl:xIndex>15</matl:xIndex>
+      <matl:yIndex>10</matl:yIndex>
+    </matl:area>
+    <matl:area id="182932e2-9ff1-4152-a075-00405992fcbb">
+      <matl:protocolId>2aa190ea-37cd-490c-9b4c-7ddfc05f6a78</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0197.oir</matl:image>
+      <matl:xIndex>16</matl:xIndex>
+      <matl:yIndex>10</matl:yIndex>
+    </matl:area>
+    <matl:area id="c7ed0369-5e6e-45d9-9387-9f58d828fcde">
+      <matl:protocolId>145b6108-f4f2-4a21-82ed-b99d9ef54bc4</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0198.oir</matl:image>
+      <matl:xIndex>17</matl:xIndex>
+      <matl:yIndex>10</matl:yIndex>
+    </matl:area>
+    <matl:area id="dae79a51-c5ff-4da0-ab75-4020039aa0a0">
+      <matl:protocolId>80bf9cf2-ba7e-44f1-a265-30d6618a8ff2</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0199.oir</matl:image>
+      <matl:xIndex>17</matl:xIndex>
+      <matl:yIndex>11</matl:yIndex>
+    </matl:area>
+    <matl:area id="9e1cd7cb-1585-49e4-b2e5-bfd9531f5784">
+      <matl:protocolId>14e35dec-5b81-45c3-8882-86c817e6d940</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0200.oir</matl:image>
+      <matl:xIndex>16</matl:xIndex>
+      <matl:yIndex>11</matl:yIndex>
+    </matl:area>
+    <matl:area id="942ed854-f541-401e-8ad5-2b555bbfc601">
+      <matl:protocolId>1d4a0388-4a6c-4f32-ac2e-38f401e005ca</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0201.oir</matl:image>
+      <matl:xIndex>15</matl:xIndex>
+      <matl:yIndex>11</matl:yIndex>
+    </matl:area>
+    <matl:area id="0d0f14e1-40c2-424c-a1cb-c7aa3d4da7a4">
+      <matl:protocolId>902a87df-17c6-4c82-84ff-440e11a00930</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0202.oir</matl:image>
+      <matl:xIndex>14</matl:xIndex>
+      <matl:yIndex>11</matl:yIndex>
+    </matl:area>
+    <matl:area id="e5cfa9e7-6b3a-47f6-8e30-3f35ca7a01c1">
+      <matl:protocolId>47c9b206-c73c-489a-822d-6b931898d535</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0203.oir</matl:image>
+      <matl:xIndex>13</matl:xIndex>
+      <matl:yIndex>11</matl:yIndex>
+    </matl:area>
+    <matl:area id="81510eea-fa79-4a5c-a0ab-86bfbe0a037a">
+      <matl:protocolId>52bb9af4-d49c-44e1-9656-2c90c4865c00</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0204.oir</matl:image>
+      <matl:xIndex>12</matl:xIndex>
+      <matl:yIndex>11</matl:yIndex>
+    </matl:area>
+    <matl:area id="bfb91055-e181-4308-9c33-3bcc21b070e8">
+      <matl:protocolId>9fd7df94-208b-49e6-a2ac-1b69db348146</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0205.oir</matl:image>
+      <matl:xIndex>11</matl:xIndex>
+      <matl:yIndex>11</matl:yIndex>
+    </matl:area>
+    <matl:area id="7285c5c7-f66d-47db-aff2-338595075b33">
+      <matl:protocolId>54a0fbd9-bd2e-443a-8e7f-b39c5baf1f60</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0206.oir</matl:image>
+      <matl:xIndex>10</matl:xIndex>
+      <matl:yIndex>11</matl:yIndex>
+    </matl:area>
+    <matl:area id="050eebbd-afb7-4a2b-ac3e-092891b497e3">
+      <matl:protocolId>93a59efd-e11e-41c9-a6d4-afbf5b65ec65</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0207.oir</matl:image>
+      <matl:xIndex>9</matl:xIndex>
+      <matl:yIndex>11</matl:yIndex>
+    </matl:area>
+    <matl:area id="a8b17045-7e27-457d-8f10-14e940b561e1">
+      <matl:protocolId>13d42e3a-993f-4891-bd0b-3c43afec3c9a</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0208.oir</matl:image>
+      <matl:xIndex>8</matl:xIndex>
+      <matl:yIndex>11</matl:yIndex>
+    </matl:area>
+    <matl:area id="7b3c7487-330f-4ee6-a6ea-c99780f1f87d">
+      <matl:protocolId>fecb585a-316d-4674-a5b4-dc8c1d7391e6</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0209.oir</matl:image>
+      <matl:xIndex>7</matl:xIndex>
+      <matl:yIndex>11</matl:yIndex>
+    </matl:area>
+    <matl:area id="8e3faf60-ee34-4538-a26f-672c6275c837">
+      <matl:protocolId>13b1753e-f033-4ee0-8bab-ccd2ce9a6347</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0210.oir</matl:image>
+      <matl:xIndex>6</matl:xIndex>
+      <matl:yIndex>11</matl:yIndex>
+    </matl:area>
+    <matl:area id="bf257b62-46fd-4c8a-ad60-424d8bdc45e8">
+      <matl:protocolId>1a005452-1eb0-4348-816c-682dce1c06d3</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0211.oir</matl:image>
+      <matl:xIndex>5</matl:xIndex>
+      <matl:yIndex>11</matl:yIndex>
+    </matl:area>
+    <matl:area id="c90d282e-1627-488a-96e7-96aeea265bea">
+      <matl:protocolId>95e8b0c5-0217-42e9-96ea-7c25df0def6b</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0212.oir</matl:image>
+      <matl:xIndex>4</matl:xIndex>
+      <matl:yIndex>11</matl:yIndex>
+    </matl:area>
+    <matl:area id="9576e8b3-025e-448c-9efb-c05de0b083e7">
+      <matl:protocolId>aab446d8-b462-4b61-943d-767d16fc5d8f</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0213.oir</matl:image>
+      <matl:xIndex>3</matl:xIndex>
+      <matl:yIndex>11</matl:yIndex>
+    </matl:area>
+    <matl:area id="e38f797a-aebc-4f43-82a5-e22d0a2d35e3">
+      <matl:protocolId>e3566efb-5596-4744-a206-30513a600625</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0214.oir</matl:image>
+      <matl:xIndex>2</matl:xIndex>
+      <matl:yIndex>11</matl:yIndex>
+    </matl:area>
+    <matl:area id="c07ae512-71e8-4d78-8b57-546bb190c1f6">
+      <matl:protocolId>3552ec1a-606d-4a64-9988-7a6748652b6f</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0215.oir</matl:image>
+      <matl:xIndex>1</matl:xIndex>
+      <matl:yIndex>11</matl:yIndex>
+    </matl:area>
+    <matl:area id="ae793f97-df4f-4ce4-aba1-bc1585010a63">
+      <matl:protocolId>4e0afc44-d5d5-4cf8-8b96-b635bf36c472</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0216.oir</matl:image>
+      <matl:xIndex>0</matl:xIndex>
+      <matl:yIndex>11</matl:yIndex>
+    </matl:area>
+    <matl:area id="aea6f938-bacf-492d-9818-9fb7fd33a4d2">
+      <matl:protocolId>34d2d15c-84ac-460e-b45d-a0724c587c82</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0217.oir</matl:image>
+      <matl:xIndex>0</matl:xIndex>
+      <matl:yIndex>12</matl:yIndex>
+    </matl:area>
+    <matl:area id="f5135ed4-4181-483e-893b-0d00f8d9aa21">
+      <matl:protocolId>c240f352-944a-4666-8160-90b3b8cd3588</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0218.oir</matl:image>
+      <matl:xIndex>1</matl:xIndex>
+      <matl:yIndex>12</matl:yIndex>
+    </matl:area>
+    <matl:area id="2c64d28b-e664-4d5f-865e-272130e814da">
+      <matl:protocolId>b81b4aec-e29e-4d04-b781-308ba8cb3fa5</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0219.oir</matl:image>
+      <matl:xIndex>2</matl:xIndex>
+      <matl:yIndex>12</matl:yIndex>
+    </matl:area>
+    <matl:area id="399d91cd-3d6e-4275-8f3e-6ed589b36a73">
+      <matl:protocolId>755c7611-406c-47b2-878c-19aba6e96baa</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0220.oir</matl:image>
+      <matl:xIndex>3</matl:xIndex>
+      <matl:yIndex>12</matl:yIndex>
+    </matl:area>
+    <matl:area id="abfdf237-e207-4fa7-ae5c-b6845c6d19f4">
+      <matl:protocolId>0d54b2c9-302c-4156-894b-8f66bb250429</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0221.oir</matl:image>
+      <matl:xIndex>4</matl:xIndex>
+      <matl:yIndex>12</matl:yIndex>
+    </matl:area>
+    <matl:area id="b8330c8f-e88e-4d2f-94da-7be058fe2645">
+      <matl:protocolId>13367dac-8962-4d9a-8b34-c58b86a5f9db</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0222.oir</matl:image>
+      <matl:xIndex>5</matl:xIndex>
+      <matl:yIndex>12</matl:yIndex>
+    </matl:area>
+    <matl:area id="29c249f1-f65e-4d0a-8d80-1e138d64d0f9">
+      <matl:protocolId>a888037a-0b77-4065-84fe-afce5833a4ee</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0223.oir</matl:image>
+      <matl:xIndex>6</matl:xIndex>
+      <matl:yIndex>12</matl:yIndex>
+    </matl:area>
+    <matl:area id="dd81dc83-9696-4d1b-8584-d53ca52d56ee">
+      <matl:protocolId>f8dc620e-aaf0-4285-be53-60cf932d617c</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0224.oir</matl:image>
+      <matl:xIndex>7</matl:xIndex>
+      <matl:yIndex>12</matl:yIndex>
+    </matl:area>
+    <matl:area id="b52c1fed-ca72-48e6-aa8e-93dc80d77b8a">
+      <matl:protocolId>6759df0a-0511-41a9-8b55-bd701ce592b3</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0225.oir</matl:image>
+      <matl:xIndex>8</matl:xIndex>
+      <matl:yIndex>12</matl:yIndex>
+    </matl:area>
+    <matl:area id="cce2b864-9b23-4c5b-ae21-d4f6107e5111">
+      <matl:protocolId>2687aa26-c821-4538-95b3-1ef80a772162</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0226.oir</matl:image>
+      <matl:xIndex>9</matl:xIndex>
+      <matl:yIndex>12</matl:yIndex>
+    </matl:area>
+    <matl:area id="aebf1f4a-1dca-459c-aaee-f197ae0ba30e">
+      <matl:protocolId>e0953f08-ccb1-400d-8682-7f832ff3b13f</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0227.oir</matl:image>
+      <matl:xIndex>10</matl:xIndex>
+      <matl:yIndex>12</matl:yIndex>
+    </matl:area>
+    <matl:area id="3c782c05-1506-4a05-94ad-11571de7ae41">
+      <matl:protocolId>c4f30e6f-23de-4041-8d00-6c87a99fc9ca</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0228.oir</matl:image>
+      <matl:xIndex>11</matl:xIndex>
+      <matl:yIndex>12</matl:yIndex>
+    </matl:area>
+    <matl:area id="ee4983a5-eb14-4375-a0af-5e2335ba2473">
+      <matl:protocolId>e6b95a13-9fd3-4155-a0aa-145ff0e95488</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0229.oir</matl:image>
+      <matl:xIndex>12</matl:xIndex>
+      <matl:yIndex>12</matl:yIndex>
+    </matl:area>
+    <matl:area id="15043cc9-ab59-4741-929c-803c95d5727b">
+      <matl:protocolId>16610206-6dd2-4ca7-8a19-1dd5e4619b01</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0230.oir</matl:image>
+      <matl:xIndex>13</matl:xIndex>
+      <matl:yIndex>12</matl:yIndex>
+    </matl:area>
+    <matl:area id="5e748b92-fa10-470d-b9d6-6b1772aed040">
+      <matl:protocolId>01225e19-d1aa-4181-85bc-ffc94c9fa142</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0231.oir</matl:image>
+      <matl:xIndex>14</matl:xIndex>
+      <matl:yIndex>12</matl:yIndex>
+    </matl:area>
+    <matl:area id="9c98467e-ba22-4498-8745-7091c255a41b">
+      <matl:protocolId>d05061a1-5668-4dcf-ad78-42e5a6e3ff8e</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0232.oir</matl:image>
+      <matl:xIndex>15</matl:xIndex>
+      <matl:yIndex>12</matl:yIndex>
+    </matl:area>
+    <matl:area id="3f20b1d6-56c3-433c-a506-4eceb1fb0c78">
+      <matl:protocolId>dbaafabc-fe52-4b0b-8714-4b4fc55453d2</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0233.oir</matl:image>
+      <matl:xIndex>16</matl:xIndex>
+      <matl:yIndex>12</matl:yIndex>
+    </matl:area>
+    <matl:area id="e767af5b-3869-4fa7-8dad-777d773c68c8">
+      <matl:protocolId>8fb8a776-5902-4a90-abb4-d93137ea829b</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0234.oir</matl:image>
+      <matl:xIndex>17</matl:xIndex>
+      <matl:yIndex>12</matl:yIndex>
+    </matl:area>
+    <matl:area id="e97d4ab4-aadd-4303-9298-4c9282267ddd">
+      <matl:protocolId>421c5f98-4279-4380-a697-2221afeda658</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0235.oir</matl:image>
+      <matl:xIndex>17</matl:xIndex>
+      <matl:yIndex>13</matl:yIndex>
+    </matl:area>
+    <matl:area id="be440c8e-9e55-46ed-90d6-63179f51e24d">
+      <matl:protocolId>7dce2550-acaa-4a3c-af80-bd45f0a5b08a</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0236.oir</matl:image>
+      <matl:xIndex>16</matl:xIndex>
+      <matl:yIndex>13</matl:yIndex>
+    </matl:area>
+    <matl:area id="070e1f51-aa55-49b7-afcd-0b4dac07fc6b">
+      <matl:protocolId>10935a75-5a9d-4505-9dbd-f3df6bdcc36f</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0237.oir</matl:image>
+      <matl:xIndex>15</matl:xIndex>
+      <matl:yIndex>13</matl:yIndex>
+    </matl:area>
+    <matl:area id="55c131b3-12ee-4617-8913-e40b39dad08c">
+      <matl:protocolId>c8811b80-a157-463f-b3a2-762237520d2a</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0238.oir</matl:image>
+      <matl:xIndex>14</matl:xIndex>
+      <matl:yIndex>13</matl:yIndex>
+    </matl:area>
+    <matl:area id="93986696-4c60-4797-82d8-c302cfe7eb8d">
+      <matl:protocolId>528ab800-e633-464c-be5a-09a9d719d8ae</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0239.oir</matl:image>
+      <matl:xIndex>13</matl:xIndex>
+      <matl:yIndex>13</matl:yIndex>
+    </matl:area>
+    <matl:area id="d8ef9396-9060-4f94-85c6-8195d571ba97">
+      <matl:protocolId>8cacc84a-8079-4aca-84c7-18585592fafe</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0240.oir</matl:image>
+      <matl:xIndex>12</matl:xIndex>
+      <matl:yIndex>13</matl:yIndex>
+    </matl:area>
+    <matl:area id="3ff58696-6b64-4d1e-859c-734a92fcbd4e">
+      <matl:protocolId>8bbb9aeb-5e83-491d-9a7c-63e319464411</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0241.oir</matl:image>
+      <matl:xIndex>11</matl:xIndex>
+      <matl:yIndex>13</matl:yIndex>
+    </matl:area>
+    <matl:area id="370b31d3-eb54-428d-8661-035d1cf263d5">
+      <matl:protocolId>ba0016e0-58fb-452b-b214-949f5f2a56ab</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0242.oir</matl:image>
+      <matl:xIndex>10</matl:xIndex>
+      <matl:yIndex>13</matl:yIndex>
+    </matl:area>
+    <matl:area id="fe3ee720-98b0-4044-8014-c592b967d9c0">
+      <matl:protocolId>3487213b-3a15-4155-876d-aa2875d01b9b</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0243.oir</matl:image>
+      <matl:xIndex>9</matl:xIndex>
+      <matl:yIndex>13</matl:yIndex>
+    </matl:area>
+    <matl:area id="63e20f66-299a-4672-9670-6bbffc33d762">
+      <matl:protocolId>56107530-e32d-4e4d-873a-1bbb86ae49bd</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0244.oir</matl:image>
+      <matl:xIndex>8</matl:xIndex>
+      <matl:yIndex>13</matl:yIndex>
+    </matl:area>
+    <matl:area id="1e1da4e1-7680-4d9e-a124-3c596b313a07">
+      <matl:protocolId>e8b49c35-e75f-4061-ab38-1f77e75f6bcd</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0245.oir</matl:image>
+      <matl:xIndex>7</matl:xIndex>
+      <matl:yIndex>13</matl:yIndex>
+    </matl:area>
+    <matl:area id="15375464-bb8f-4915-a14b-05f4de313155">
+      <matl:protocolId>00bee7f3-f5f1-4f3d-a3d1-6509af0d98aa</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0246.oir</matl:image>
+      <matl:xIndex>6</matl:xIndex>
+      <matl:yIndex>13</matl:yIndex>
+    </matl:area>
+    <matl:area id="9983d4c1-524c-4a50-a682-fe504b71b25a">
+      <matl:protocolId>1c877b4e-5fda-4f62-b6dd-6a0f8d2f1a14</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0247.oir</matl:image>
+      <matl:xIndex>5</matl:xIndex>
+      <matl:yIndex>13</matl:yIndex>
+    </matl:area>
+    <matl:area id="06da6eae-b7dc-48f6-a015-7d51a1bf6f03">
+      <matl:protocolId>75e9bae3-f328-40a7-8ed5-f803bd66e66a</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0248.oir</matl:image>
+      <matl:xIndex>4</matl:xIndex>
+      <matl:yIndex>13</matl:yIndex>
+    </matl:area>
+    <matl:area id="10c23ab1-7481-4795-b523-9b6a06ccac10">
+      <matl:protocolId>68007940-d033-4fee-b855-6c29a8ee0e32</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0249.oir</matl:image>
+      <matl:xIndex>3</matl:xIndex>
+      <matl:yIndex>13</matl:yIndex>
+    </matl:area>
+    <matl:area id="dd63673f-d28a-4bfd-a1be-bb611ae24178">
+      <matl:protocolId>666ebd8c-1c52-428b-9467-1fc96410cf70</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0250.oir</matl:image>
+      <matl:xIndex>2</matl:xIndex>
+      <matl:yIndex>13</matl:yIndex>
+    </matl:area>
+    <matl:area id="7dcb5f31-b132-4a47-bfb5-f1b34e21937a">
+      <matl:protocolId>8b68aa96-7f95-43a7-aa70-6c39510411a9</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0251.oir</matl:image>
+      <matl:xIndex>1</matl:xIndex>
+      <matl:yIndex>13</matl:yIndex>
+    </matl:area>
+    <matl:area id="345ed2ee-704b-48e4-b06b-0fcabe10a694">
+      <matl:protocolId>ae8e5aa7-0f5b-49d9-976d-3247196aeee8</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0252.oir</matl:image>
+      <matl:xIndex>0</matl:xIndex>
+      <matl:yIndex>13</matl:yIndex>
+    </matl:area>
+    <matl:area id="1369c840-7372-44ed-ae9a-0becbe9bf8fc">
+      <matl:protocolId>d5a10ee9-df26-4252-894c-4c96394a6b55</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0253.oir</matl:image>
+      <matl:xIndex>0</matl:xIndex>
+      <matl:yIndex>14</matl:yIndex>
+    </matl:area>
+    <matl:area id="4719c1b3-cef2-4405-96f9-a7c9cc97337a">
+      <matl:protocolId>02bdb43f-e648-4b09-a938-2f62ab57ee1d</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0254.oir</matl:image>
+      <matl:xIndex>1</matl:xIndex>
+      <matl:yIndex>14</matl:yIndex>
+    </matl:area>
+    <matl:area id="c77a6c32-a6a5-40b1-85d0-43def0bffbae">
+      <matl:protocolId>b787be1b-b969-4d48-9e64-95079ec5f7c5</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0255.oir</matl:image>
+      <matl:xIndex>2</matl:xIndex>
+      <matl:yIndex>14</matl:yIndex>
+    </matl:area>
+    <matl:area id="75e30d1a-2029-4f72-a15f-e6d2bae2c42b">
+      <matl:protocolId>3a93812e-c1a2-43ab-bbad-79c951313fb4</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0256.oir</matl:image>
+      <matl:xIndex>3</matl:xIndex>
+      <matl:yIndex>14</matl:yIndex>
+    </matl:area>
+    <matl:area id="17b14c9d-2c06-451a-8721-0739201a9aeb">
+      <matl:protocolId>cdb078b8-8518-437c-98be-f5251c16ca65</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0257.oir</matl:image>
+      <matl:xIndex>4</matl:xIndex>
+      <matl:yIndex>14</matl:yIndex>
+    </matl:area>
+    <matl:area id="c636a154-5cd0-441d-8f3f-5f0c83596d26">
+      <matl:protocolId>874b0419-a8d2-4e6f-8f8c-4cf39069271a</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0258.oir</matl:image>
+      <matl:xIndex>5</matl:xIndex>
+      <matl:yIndex>14</matl:yIndex>
+    </matl:area>
+    <matl:area id="d885040b-9b52-41dc-acf0-600bcc359c90">
+      <matl:protocolId>99730215-e0b9-4a84-b45b-c6d773a93cdb</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0259.oir</matl:image>
+      <matl:xIndex>6</matl:xIndex>
+      <matl:yIndex>14</matl:yIndex>
+    </matl:area>
+    <matl:area id="42d1211a-8486-454c-8aa5-3071292510a5">
+      <matl:protocolId>c29ffd97-0525-447b-9386-e871bff40605</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0260.oir</matl:image>
+      <matl:xIndex>7</matl:xIndex>
+      <matl:yIndex>14</matl:yIndex>
+    </matl:area>
+    <matl:area id="bdd14a82-8848-4ffb-8d97-fc7688c9fa3b">
+      <matl:protocolId>8f53f7d9-9507-49b2-8fa5-c793d9cab343</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0261.oir</matl:image>
+      <matl:xIndex>8</matl:xIndex>
+      <matl:yIndex>14</matl:yIndex>
+    </matl:area>
+    <matl:area id="2426b627-b232-413a-8c2f-fae801df5469">
+      <matl:protocolId>681619fb-e45b-40ed-a1a0-5142fb759b87</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0262.oir</matl:image>
+      <matl:xIndex>9</matl:xIndex>
+      <matl:yIndex>14</matl:yIndex>
+    </matl:area>
+    <matl:area id="5ca06145-ca63-425f-94fb-3a8da6d15851">
+      <matl:protocolId>5857bbca-19ed-4d3d-9cb1-2ab5e7d29996</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0263.oir</matl:image>
+      <matl:xIndex>10</matl:xIndex>
+      <matl:yIndex>14</matl:yIndex>
+    </matl:area>
+    <matl:area id="93f3daa0-a519-4103-8bea-6fc80ae8a6e0">
+      <matl:protocolId>fea66149-0855-47ef-aeef-378bd4abe043</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0264.oir</matl:image>
+      <matl:xIndex>11</matl:xIndex>
+      <matl:yIndex>14</matl:yIndex>
+    </matl:area>
+    <matl:area id="a843ba15-e177-4bca-a7e2-e29278d985ed">
+      <matl:protocolId>35c7199e-bb28-42fe-9b0e-6d8d6425ca60</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0265.oir</matl:image>
+      <matl:xIndex>12</matl:xIndex>
+      <matl:yIndex>14</matl:yIndex>
+    </matl:area>
+    <matl:area id="da48870b-062f-4821-9182-8d1e10663587">
+      <matl:protocolId>8860c527-d793-418a-a520-07892dcc6b5a</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0266.oir</matl:image>
+      <matl:xIndex>13</matl:xIndex>
+      <matl:yIndex>14</matl:yIndex>
+    </matl:area>
+    <matl:area id="40a09009-07ef-423d-8bd2-88acc8f01ad2">
+      <matl:protocolId>01003bd4-4ba9-4682-9a10-bec740676080</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0267.oir</matl:image>
+      <matl:xIndex>14</matl:xIndex>
+      <matl:yIndex>14</matl:yIndex>
+    </matl:area>
+    <matl:area id="e5c13d84-0e4c-4d2e-8f49-7e7a3cf0dd86">
+      <matl:protocolId>ae4c9755-63e5-441b-b9c9-916355e39aa4</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0268.oir</matl:image>
+      <matl:xIndex>15</matl:xIndex>
+      <matl:yIndex>14</matl:yIndex>
+    </matl:area>
+    <matl:area id="ce6b124a-06b5-4d7a-abe1-16251d2452ec">
+      <matl:protocolId>0f2039c3-e817-4a74-8d8e-c2690d4c453e</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0269.oir</matl:image>
+      <matl:xIndex>16</matl:xIndex>
+      <matl:yIndex>14</matl:yIndex>
+    </matl:area>
+    <matl:area id="794be9bd-852e-4162-abcc-eab6190ff2c3">
+      <matl:protocolId>227fb751-f92a-4be6-bd70-7c1821d27e1b</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0270.oir</matl:image>
+      <matl:xIndex>17</matl:xIndex>
+      <matl:yIndex>14</matl:yIndex>
+    </matl:area>
+    <matl:area id="e64e3220-623e-4d4a-a871-9e70d12f8f3d">
+      <matl:protocolId>9d5efc67-e852-4d6e-8250-536936fe773a</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0271.oir</matl:image>
+      <matl:xIndex>17</matl:xIndex>
+      <matl:yIndex>15</matl:yIndex>
+    </matl:area>
+    <matl:area id="43536485-97ea-401f-810f-1c55f9eb1306">
+      <matl:protocolId>80802e10-bd6e-4e4d-8a42-7f63a87b3601</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0272.oir</matl:image>
+      <matl:xIndex>16</matl:xIndex>
+      <matl:yIndex>15</matl:yIndex>
+    </matl:area>
+    <matl:area id="6cb68544-92a5-469d-b537-f104afd76d61">
+      <matl:protocolId>f259256f-d383-496a-9f51-a6246df008ee</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0273.oir</matl:image>
+      <matl:xIndex>15</matl:xIndex>
+      <matl:yIndex>15</matl:yIndex>
+    </matl:area>
+    <matl:area id="daa33be5-78d6-4acf-8da2-24dd9e1131c9">
+      <matl:protocolId>71a82a21-729d-4371-811a-6aac6bbdc5a7</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0274.oir</matl:image>
+      <matl:xIndex>14</matl:xIndex>
+      <matl:yIndex>15</matl:yIndex>
+    </matl:area>
+    <matl:area id="f0b8477e-7c92-4a3e-bb5b-88829289a71f">
+      <matl:protocolId>f64ec5af-5d02-431f-8ad1-88c4fad78178</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0275.oir</matl:image>
+      <matl:xIndex>13</matl:xIndex>
+      <matl:yIndex>15</matl:yIndex>
+    </matl:area>
+    <matl:area id="d2258178-5349-49cb-9314-79a5b02938e7">
+      <matl:protocolId>8fdde024-5a3b-4c8a-9659-43d17c199ac2</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0276.oir</matl:image>
+      <matl:xIndex>12</matl:xIndex>
+      <matl:yIndex>15</matl:yIndex>
+    </matl:area>
+    <matl:area id="b08aaf62-9689-44d3-8c27-26730ac20a88">
+      <matl:protocolId>213de930-b286-4ebf-bae6-d0de7c1e620f</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0277.oir</matl:image>
+      <matl:xIndex>11</matl:xIndex>
+      <matl:yIndex>15</matl:yIndex>
+    </matl:area>
+    <matl:area id="67f1633f-6341-4fcc-aaad-00f9a5428af8">
+      <matl:protocolId>319f37f1-f8c8-4389-ae8a-5f45e3417144</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0278.oir</matl:image>
+      <matl:xIndex>10</matl:xIndex>
+      <matl:yIndex>15</matl:yIndex>
+    </matl:area>
+    <matl:area id="f7433010-e6cf-498d-9717-2a6afbe4127f">
+      <matl:protocolId>edebbe90-4074-444b-90aa-df1ed4b37a0c</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0279.oir</matl:image>
+      <matl:xIndex>9</matl:xIndex>
+      <matl:yIndex>15</matl:yIndex>
+    </matl:area>
+    <matl:area id="3ed677a3-4dd6-4ecd-ae6e-efffe63b7fb0">
+      <matl:protocolId>312b8c2d-bce2-401f-a399-be395d486307</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0280.oir</matl:image>
+      <matl:xIndex>8</matl:xIndex>
+      <matl:yIndex>15</matl:yIndex>
+    </matl:area>
+    <matl:area id="f8dc46ee-5bed-474f-9a62-67802631025c">
+      <matl:protocolId>efdde245-c9b8-4abd-a56e-9881e125ef2a</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0281.oir</matl:image>
+      <matl:xIndex>7</matl:xIndex>
+      <matl:yIndex>15</matl:yIndex>
+    </matl:area>
+    <matl:area id="9ade2fda-b8e9-4335-ad63-76d64bef6e59">
+      <matl:protocolId>3109959d-0700-4ee6-b9b3-c32b25e2a3a0</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0282.oir</matl:image>
+      <matl:xIndex>6</matl:xIndex>
+      <matl:yIndex>15</matl:yIndex>
+    </matl:area>
+    <matl:area id="fa3c14dd-51cb-412d-b436-dce2b07c282b">
+      <matl:protocolId>1c8af58a-c09b-4bda-ad06-a541b1414e53</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0283.oir</matl:image>
+      <matl:xIndex>5</matl:xIndex>
+      <matl:yIndex>15</matl:yIndex>
+    </matl:area>
+    <matl:area id="d46ccde3-1941-4a3b-9072-5c370b805f78">
+      <matl:protocolId>879860d1-b511-4326-8ee7-210bb8c6ca0c</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0284.oir</matl:image>
+      <matl:xIndex>4</matl:xIndex>
+      <matl:yIndex>15</matl:yIndex>
+    </matl:area>
+    <matl:area id="3c4fb359-d979-4228-a344-8880027e0e35">
+      <matl:protocolId>2b6550bb-71f6-43bf-8238-b57aa7c9f0cd</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0285.oir</matl:image>
+      <matl:xIndex>3</matl:xIndex>
+      <matl:yIndex>15</matl:yIndex>
+    </matl:area>
+    <matl:area id="87a75c90-e0be-4bc0-ba23-66887842363c">
+      <matl:protocolId>d8f76cb5-37a3-40bf-87fd-75be72c1c4bd</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0286.oir</matl:image>
+      <matl:xIndex>2</matl:xIndex>
+      <matl:yIndex>15</matl:yIndex>
+    </matl:area>
+    <matl:area id="1d1101ee-c83d-4db5-a97a-74f911c357ad">
+      <matl:protocolId>e31dfcf0-287d-4279-ae26-ae42f124358e</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0287.oir</matl:image>
+      <matl:xIndex>1</matl:xIndex>
+      <matl:yIndex>15</matl:yIndex>
+    </matl:area>
+    <matl:area id="af0ce08a-b83c-45ed-92c1-9ff736497f4e">
+      <matl:protocolId>3ac1fbdb-70e9-41d6-9067-cc31c4e0c3f9</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0288.oir</matl:image>
+      <matl:xIndex>0</matl:xIndex>
+      <matl:yIndex>15</matl:yIndex>
+    </matl:area>
+    <matl:area id="267ddb27-86f0-4399-8377-cfe622b6bc87">
+      <matl:protocolId>c3c926e8-3738-413d-a098-d2543f85db18</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0289.oir</matl:image>
+      <matl:xIndex>0</matl:xIndex>
+      <matl:yIndex>16</matl:yIndex>
+    </matl:area>
+    <matl:area id="5c528f6d-da62-4d39-b799-402f5b1170f6">
+      <matl:protocolId>b5298714-955d-45e4-bcd5-fa5be31d4e35</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0290.oir</matl:image>
+      <matl:xIndex>1</matl:xIndex>
+      <matl:yIndex>16</matl:yIndex>
+    </matl:area>
+    <matl:area id="3c876376-8215-4e0d-b0a0-a11bbd02096d">
+      <matl:protocolId>5d95798a-d4f6-41fd-a9cd-bd81eb0aeeea</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0291.oir</matl:image>
+      <matl:xIndex>2</matl:xIndex>
+      <matl:yIndex>16</matl:yIndex>
+    </matl:area>
+    <matl:area id="d8e31bea-cc89-4e7a-bd27-764e113b67d3">
+      <matl:protocolId>1ac51b20-a923-4f4c-8697-5d785b157714</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0292.oir</matl:image>
+      <matl:xIndex>3</matl:xIndex>
+      <matl:yIndex>16</matl:yIndex>
+    </matl:area>
+    <matl:area id="5ffbcdf7-fbd5-4162-838e-d138d0bdbf95">
+      <matl:protocolId>b21bea7b-eb3b-4a47-b17a-07475e447634</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0293.oir</matl:image>
+      <matl:xIndex>4</matl:xIndex>
+      <matl:yIndex>16</matl:yIndex>
+    </matl:area>
+    <matl:area id="42dd7383-0324-42fa-9e0c-777781c0774a">
+      <matl:protocolId>65da9e3a-689f-42e7-a117-930529206f85</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0294.oir</matl:image>
+      <matl:xIndex>5</matl:xIndex>
+      <matl:yIndex>16</matl:yIndex>
+    </matl:area>
+    <matl:area id="ace381d9-cbed-43d8-9ae8-76d64912e71b">
+      <matl:protocolId>eef2d282-f672-4332-9df5-fe44f83a3caa</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0295.oir</matl:image>
+      <matl:xIndex>6</matl:xIndex>
+      <matl:yIndex>16</matl:yIndex>
+    </matl:area>
+    <matl:area id="15cc5014-6c93-4b82-a3b7-4d1a4365662d">
+      <matl:protocolId>e7b0ac26-8c1f-4b4e-be16-750e1ec8b40d</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0296.oir</matl:image>
+      <matl:xIndex>7</matl:xIndex>
+      <matl:yIndex>16</matl:yIndex>
+    </matl:area>
+    <matl:area id="9a85888b-083c-4e6d-9b9e-852a1ea769ce">
+      <matl:protocolId>c090f3f7-6c95-48a5-93ab-362951b4c8a4</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0297.oir</matl:image>
+      <matl:xIndex>8</matl:xIndex>
+      <matl:yIndex>16</matl:yIndex>
+    </matl:area>
+    <matl:area id="a285e038-871d-40a5-b6a1-0964929d54e1">
+      <matl:protocolId>fcc538b3-6bbb-43c6-9a70-951f85560167</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0298.oir</matl:image>
+      <matl:xIndex>9</matl:xIndex>
+      <matl:yIndex>16</matl:yIndex>
+    </matl:area>
+    <matl:area id="4511ed0b-fe32-4574-bf44-cef52c773d47">
+      <matl:protocolId>bcb26774-8107-439a-8ba1-1e40bac233fb</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0299.oir</matl:image>
+      <matl:xIndex>10</matl:xIndex>
+      <matl:yIndex>16</matl:yIndex>
+    </matl:area>
+    <matl:area id="22387fa4-414a-448f-99b8-b13a9bfa1321">
+      <matl:protocolId>b5b8115c-65a5-40eb-8094-e33aee3d6ed4</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0300.oir</matl:image>
+      <matl:xIndex>11</matl:xIndex>
+      <matl:yIndex>16</matl:yIndex>
+    </matl:area>
+    <matl:area id="5b24bee5-811c-40e5-a06b-c0f3d71882f8">
+      <matl:protocolId>299d1b93-d2de-45b3-986f-09dcf4a494d6</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0301.oir</matl:image>
+      <matl:xIndex>12</matl:xIndex>
+      <matl:yIndex>16</matl:yIndex>
+    </matl:area>
+    <matl:area id="f7eed824-6d54-43e3-a571-acacaaf3a968">
+      <matl:protocolId>dc3c252a-80d0-462a-bae8-82d9d3f03a89</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0302.oir</matl:image>
+      <matl:xIndex>13</matl:xIndex>
+      <matl:yIndex>16</matl:yIndex>
+    </matl:area>
+    <matl:area id="8e20bf5e-827f-44f8-91b8-58007d996c0e">
+      <matl:protocolId>d13bc919-2eee-44a0-a812-a6d8458dba3e</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0303.oir</matl:image>
+      <matl:xIndex>14</matl:xIndex>
+      <matl:yIndex>16</matl:yIndex>
+    </matl:area>
+    <matl:area id="0ef50f0e-51ec-4907-bb10-a5328e523494">
+      <matl:protocolId>f8886cdd-2550-46b3-91d4-3ec32c4495b6</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0304.oir</matl:image>
+      <matl:xIndex>15</matl:xIndex>
+      <matl:yIndex>16</matl:yIndex>
+    </matl:area>
+    <matl:area id="4360d7c4-073b-47af-87e7-119a79250566">
+      <matl:protocolId>6a9ecbb6-3a5d-4a01-abae-b7e293f31157</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0305.oir</matl:image>
+      <matl:xIndex>16</matl:xIndex>
+      <matl:yIndex>16</matl:yIndex>
+    </matl:area>
+    <matl:area id="920822d8-2c3c-4f8b-8ee9-73b6eae7a94f">
+      <matl:protocolId>885c3395-d77d-4447-a9d4-43d49e329958</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0306.oir</matl:image>
+      <matl:xIndex>17</matl:xIndex>
+      <matl:yIndex>16</matl:yIndex>
+    </matl:area>
+    <matl:area id="34e5fce7-8bbc-494b-a9e8-6e0daac311c2">
+      <matl:protocolId>2cf3ec8c-774f-4353-aeef-d2524911a489</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0307.oir</matl:image>
+      <matl:xIndex>17</matl:xIndex>
+      <matl:yIndex>17</matl:yIndex>
+    </matl:area>
+    <matl:area id="4bf1c054-de6a-4111-b534-946989c71570">
+      <matl:protocolId>aec51179-df1e-43c4-8303-9ec3cb21fea7</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0308.oir</matl:image>
+      <matl:xIndex>16</matl:xIndex>
+      <matl:yIndex>17</matl:yIndex>
+    </matl:area>
+    <matl:area id="bf936f23-d5fc-4594-b9e9-6e141707543e">
+      <matl:protocolId>cd346ee2-deae-40eb-a126-6eaf94878cf4</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0309.oir</matl:image>
+      <matl:xIndex>15</matl:xIndex>
+      <matl:yIndex>17</matl:yIndex>
+    </matl:area>
+    <matl:area id="ad8d977e-9a11-4158-96b2-74f7b0b62fac">
+      <matl:protocolId>9b8b3b45-5d2a-4b84-a288-14e0aa0d23d6</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0310.oir</matl:image>
+      <matl:xIndex>14</matl:xIndex>
+      <matl:yIndex>17</matl:yIndex>
+    </matl:area>
+    <matl:area id="613cf712-52f1-4ea1-8a44-6489975536a8">
+      <matl:protocolId>fe20003c-e80c-4a3a-a3aa-fa8ba96b8d2c</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0311.oir</matl:image>
+      <matl:xIndex>13</matl:xIndex>
+      <matl:yIndex>17</matl:yIndex>
+    </matl:area>
+    <matl:area id="7864e0b4-40c9-4fa4-a913-a74c5f6af8de">
+      <matl:protocolId>66246f12-118f-4a09-8866-7edfd34e7cdf</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0312.oir</matl:image>
+      <matl:xIndex>12</matl:xIndex>
+      <matl:yIndex>17</matl:yIndex>
+    </matl:area>
+    <matl:area id="34e97bd2-f67f-4a49-be2d-b785715ff37c">
+      <matl:protocolId>214d5f21-f77f-40d7-8b7e-a0e484d1c349</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0313.oir</matl:image>
+      <matl:xIndex>11</matl:xIndex>
+      <matl:yIndex>17</matl:yIndex>
+    </matl:area>
+    <matl:area id="ca01ec2c-1072-481a-b3ee-fcbcdca1f3a4">
+      <matl:protocolId>5f61d6b6-244d-42d2-add2-9e828c5669d8</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0314.oir</matl:image>
+      <matl:xIndex>10</matl:xIndex>
+      <matl:yIndex>17</matl:yIndex>
+    </matl:area>
+    <matl:area id="359f97d6-5493-45e7-aa89-d5ccf6a9dd44">
+      <matl:protocolId>80cd1275-d21e-42f7-8f4f-012301119af0</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0315.oir</matl:image>
+      <matl:xIndex>9</matl:xIndex>
+      <matl:yIndex>17</matl:yIndex>
+    </matl:area>
+    <matl:area id="23c81a80-d679-45e9-ab68-4853efe28cc0">
+      <matl:protocolId>557d2a7a-1acb-42d3-999d-621b544e77b4</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0316.oir</matl:image>
+      <matl:xIndex>8</matl:xIndex>
+      <matl:yIndex>17</matl:yIndex>
+    </matl:area>
+    <matl:area id="749e916e-ee6c-4001-8a3f-e81fb2e790e7">
+      <matl:protocolId>b9cbfc7e-149b-4052-aea2-86a7146dbde6</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0317.oir</matl:image>
+      <matl:xIndex>7</matl:xIndex>
+      <matl:yIndex>17</matl:yIndex>
+    </matl:area>
+    <matl:area id="c21ab346-0b35-49a8-bc50-7cb7c4a3fd6a">
+      <matl:protocolId>63ec9674-513a-4ac7-84ab-d527586c2ffc</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0318.oir</matl:image>
+      <matl:xIndex>6</matl:xIndex>
+      <matl:yIndex>17</matl:yIndex>
+    </matl:area>
+    <matl:area id="f63cd3d0-1bac-4db8-914b-5281154b85fd">
+      <matl:protocolId>50364796-76eb-4b91-9f7d-aa1824c5f054</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0319.oir</matl:image>
+      <matl:xIndex>5</matl:xIndex>
+      <matl:yIndex>17</matl:yIndex>
+    </matl:area>
+    <matl:area id="2696617a-c3f1-4474-b16a-69236441d218">
+      <matl:protocolId>1e6d206e-b0d5-4ccd-a9ef-8fe145fd106a</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0320.oir</matl:image>
+      <matl:xIndex>4</matl:xIndex>
+      <matl:yIndex>17</matl:yIndex>
+    </matl:area>
+    <matl:area id="6777f5f7-77ee-41d2-8e7f-a7e9c5d7abf3">
+      <matl:protocolId>588fb874-9da7-4a80-b02f-84720d289057</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0321.oir</matl:image>
+      <matl:xIndex>3</matl:xIndex>
+      <matl:yIndex>17</matl:yIndex>
+    </matl:area>
+    <matl:area id="6c6bf800-677b-47c5-a900-ad542518ccb0">
+      <matl:protocolId>b58e864f-9ce3-46c7-9492-edb7aaf6dca7</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0322.oir</matl:image>
+      <matl:xIndex>2</matl:xIndex>
+      <matl:yIndex>17</matl:yIndex>
+    </matl:area>
+    <matl:area id="435f1134-0e28-41fa-aa02-8a8cb8ca5979">
+      <matl:protocolId>bc8d4374-c8bb-444c-965c-4ab92e3046a2</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0323.oir</matl:image>
+      <matl:xIndex>1</matl:xIndex>
+      <matl:yIndex>17</matl:yIndex>
+    </matl:area>
+    <matl:area id="008b35d2-b077-4bcf-8d2c-0c2c18eead00">
+      <matl:protocolId>03204a8f-eaff-462c-a109-483fa7ba40bb</matl:protocolId>
+      <matl:image>181019_raft1_A01_G001_0324.oir</matl:image>
+      <matl:xIndex>0</matl:xIndex>
+      <matl:yIndex>17</matl:yIndex>
+    </matl:area>
+    <matl:xInterval>0</matl:xInterval>
+    <matl:yInterval>0</matl:yInterval>
+  </matl:group>
+  <matl:cycle id="matl_loop">
+    <matl:interval>0.0</matl:interval>
+    <matl:count>1</matl:count>
+    <matl:startGroupId>0e540b93-4296-42e8-9771-7af278c4bd19</matl:startGroupId>
+    <matl:endGroupId>0e540b93-4296-42e8-9771-7af278c4bd19</matl:endGroupId>
+  </matl:cycle>
+</matl:properties>
