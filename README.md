@@ -9,6 +9,7 @@
 
 # Hardware requirements:
 
+Images were collected on an Olympus FluoView 3000 microscope using their built-in software to image 324 fields-of-view in an automated fashion to cover the surface area of the microRaft array. Image segmentation, filtering, and analysis was performed on a macbook Pro (2.9 GHz Intel Core i7 processor, 16 GB memory). Image processing took ~20-30 minutes per microRaft array.
 
 # Install Instructions:
 
@@ -51,13 +52,14 @@ conda activate nn_classifier_gpu
     
 4) Cell Profiler analysis. 
 
-    Analyze your phenotype of interest with CellProfiler. 
+    Analyze your phenotype of interest with CellProfiler. An example pipeline that we used to quantify stress granule and nuclei area is included in the cellProfiler analysis folder. CellProfiler v3.0 was used to run this analysis. 
     
-  
+5) Targeted Sequencing Analysis.
 
-Refer to the notebooks within each section:
+    After target rafts have been isolated from the array and prepared for sequencing, use the scripts in targeted_sequencing_analysis folder to demux libraries and assign gRNA insert. 
+      
+
+*Refer to the README notebooks within each section for more detailed usage:*
 - targeted_sequencing_analysis
 - image_processing
 - neural_net_classifier
-
-Runtime is not more than a few minutes total for the single image dataset provided here. 
