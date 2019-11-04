@@ -1,4 +1,7 @@
 # CRaftID
+
+*Pooled CRISPR/Cas9 screening with image-based phenotyping on microRaft arrays reveals stress granule-regulatory factors*
+
 Software and code associated with CRaftID Paper
 
 ![logo](https://github.com/YeoLab/CRaftID/blob/master/logo/monkeerows_foremily.gif)
