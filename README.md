@@ -35,6 +35,12 @@ conda activate nn_classifier_gpu
 
 # Usage:
 
+**Steps to processing CRAFT-ID Data:**
+
+1) Combine image-stacks and segment individual color channels for analysis. 
+
+This setup will vary depending on the screen being performed. Fiji has all the necessary tools and we recommend using macros to programmatically. The first step in the image_processing section contains the macro used for the images acquired in the CRAFT-ID paper. 
+
 Refer to the notebooks within each section:
 - targeted_sequencing_analysis
 - image_processing
