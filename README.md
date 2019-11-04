@@ -37,9 +37,23 @@ conda activate nn_classifier_gpu
 
 **Steps to processing CRAFT-ID Data:**
 
-1) Combine image-stacks and segment individual color channels for analysis. 
+1) Combine image-stacks and segment individual color channels (saved as tif images) for analysis. 
 
-      This setup will vary depending on the screen being performed. Fiji has all the necessary tools and we recommend using macros to programmatically. The first step in the image_processing section contains the macro used for the images acquired in the CRAFT-ID paper. 
+      This setup will vary depending on the screen being performed. Fiji has all the necessary tools and we recommend using macros to programmatically. The first step in the image_processing section contains the python code used to generate a macro to be run in Fiji.
+      
+2)  Segment images for individual microwells. 
+
+    Each field of view contains many individual microwells depending on the magnification used for imaging. This step will segment each image on individual microwells and save wells that contain cells into a new folder. These are the individual colony images that will be considered for phenotypic analysis. The second step of the image_processing section contains information on how to implement this code. 
+    
+3)  Filter out unwanted images with neural-network classification. 
+
+    To remove dying colonies and unwanted cellular debris artifacts, we implemented a neural network classifier trained on cell nuclei staining of manually curated images. Instructions to implement the same classification stufy used here are included in the neural_net_classifier section. This will generate a list of images that should be removed from the final analysis. 
+    
+4) Cell Profiler analysis. 
+
+    Analyze your phenotype of interest with CellProfiler. 
+    
+  
 
 Refer to the notebooks within each section:
 - targeted_sequencing_analysis
