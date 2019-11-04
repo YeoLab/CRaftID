@@ -1,7 +1,7 @@
 # CRaftID
 Software and code associated with CRaftID Paper
 
-![logo](https://github.com/YeoLab/CRaftID/blob/master/logo/Monkee_rafting.png)
+![logo](https://github.com/YeoLab/CRaftID/blob/master/logo/monkeerows_foremily.gif)
 
 
 # Hardware requirements:
